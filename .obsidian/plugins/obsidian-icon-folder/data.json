@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBox",
       "FasX",
       "RiComputerLine",
       "FasDatabase",
-      "SiPostgresql",
-      "FabNodeJs"
+      "SiPostgresql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +20,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": true
   },
   "JS": "FabJs",
   "Rust": "FabRust",
@@ -29,5 +29,6 @@
   "Back-end/Node.js": "FabNodeJs",
   "Back-end/DB/SQL.md": "SiPostgresql",
   "Back-end/DB/Databases.md": "FasDatabase",
-  "General": "RiComputerLine"
+  "General": "RiComputerLine",
+  "JS/Objects": "FasBox"
 }

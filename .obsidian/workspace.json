@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md",
+                "file": "JS/Objects/Objects.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c86b7112e6a712c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Variables(Rs).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Statementsї",
+                "query": "tag:#Syntaxis_differences",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md"
+                "file": "JS/Objects/Objects.md"
               }
             }
           },
@@ -155,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,22 +184,24 @@
   },
   "active": "a0ca4f5c6721ce68",
   "lastOpenFiles": [
-    "JS/1. Functions/First-class Functions.md",
     "JS/1. Functions/Functions (JS).md",
+    "Rust/Variables(Rs).md",
+    "Rust/Functions(Rs).md",
+    "Rust/Data Types(Rs).md",
+    "JS/Objects/Objects.md",
+    "JS/Objects",
+    "JS/1. Functions/First-class Functions.md",
     "Back-end/Status Codes.md",
     "Back-end/DB/Databases.md",
     "Back-end/Node.js/Advanced Authentication.md",
-    "Rust/Variables.md",
     "JS/1. Functions/Async.md",
     "2023-08-25.md",
     "Async.md",
     "General/Statements.md",
-    "Rust/Functions.md",
     "General/Expressions.md",
     "General",
     "JS/Promises.md",
     "JS/1. Functions",
-    "Rust/Data Types.md",
     "().md",
     "JS",
     "Без назви.canvas",

@@ -29,6 +29,7 @@ console.log(car.brand); // Toyota
 
 The [[this]] keyword refers to the object that the function is accessed on — it does not refer to the currently executing function, so you must refer to the function value by name, even within the function body.
 
+___
 ### [Defining functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions#defining_functions)
 
 Broadly speaking, JavaScript has four kinds of functions:
@@ -83,3 +84,12 @@ const obj = {
 };
 
 ```
+
+### #Syntaxis_differences
+All syntaxes do approximately the same thing, but there are some subtle behavior differences.
+- The `Function()` constructor, `function` expression, and `function` declaration syntaxes create full-fledged **function objects**(!), which can be constructed with [[The "new" Operator|new]]. However, [[Arrow functions|arrow functions]] and methods cannot be constructed. Async functions, generator functions, and async generator functions are not constructible regardless of syntax.
+- The `function` declaration creates functions that are [_hoisted_](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_hoisting). Other syntaxes do not hoist the function and the function value is only visible after the definition.
+- The arrow function and `Function()` constructor always create _anonymous_ functions, which means they can't easily call themselves recursively. One way to call an arrow function recursively is by assigning it to a variable.
+- The arrow function syntax does not have access to `arguments` or `this`.
+- The `Function()` constructor cannot access any local variables — it only has access to the global scope.
+- The `Function()` constructor causes runtime compilation and is often slower than other syntaxes.
