@@ -86,7 +86,7 @@
       {
         "id": "86c309990bf8dae6",
         "type": "tabs",
-        "dimension": 20.73643410852713,
+        "dimension": 48.837209302325576,
         "children": [
           {
             "id": "57d87f7756e73a54",
@@ -145,14 +145,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d73fd0378a225d65",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "45fcef56fdaca315",
         "type": "tabs",
-        "dimension": 79.26356589147287,
+        "dimension": 51.162790697674424,
         "children": [
           {
             "id": "3b3e24f4d7cf4f5d",
@@ -179,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5d0933f9929c7da",
+  "active": "1d57a631fc4323cd",
   "lastOpenFiles": [
     "JS/1. Functions/Functions (JS).md",
     "JS/1. Functions/First-class Functions.md",
