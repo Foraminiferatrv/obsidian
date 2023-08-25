@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTypescript",
+      "SiReact",
+      "FasBrush",
       "FasBox",
-      "FasX",
-      "RiComputerLine",
-      "FasDatabase",
-      "SiPostgresql"
+      "FasX"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,9 @@
   "Back-end/DB/SQL.md": "SiPostgresql",
   "Back-end/DB/Databases.md": "FasDatabase",
   "General": "RiComputerLine",
-  "JS/Objects": "FasBox"
+  "JS/Objects": "FasBox",
+  "Front-end": "FasBrush",
+  "Front-end/React": "SiReact",
+  "JS/TS": "SiTypescript",
+  "JS/TS/TypeScript.md": "SiTypescript"
 }

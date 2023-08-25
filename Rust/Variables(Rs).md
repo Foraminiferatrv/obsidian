@@ -1,3 +1,6 @@
+---
+tag: Rs
+---
 
 **Constants** 
 ***

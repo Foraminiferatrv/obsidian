@@ -6,6 +6,7 @@
       {
         "id": "36f267413917b55e",
         "type": "tabs",
+        "dimension": 70.64825930372149,
         "children": [
           {
             "id": "a0ca4f5c6721ce68",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Objects/Objects.md",
+                "file": "JS/1. Functions/Functions (JS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +27,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Variables(Rs).md",
+                "file": "JS/1. Functions/First-class Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c532698ad0f00c73",
+        "type": "tabs",
+        "dimension": 29.35174069627851,
+        "children": [
+          {
+            "id": "5769ce1d598947fe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "9d318ee6df498256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/TS/TypeScript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65416b174544c7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/React/React.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Syntaxis_differences",
+                "query": "tag:#Rs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "67331d440f3f028f",
@@ -102,16 +146,6 @@
         "type": "tabs",
         "dimension": 78.97286821705426,
         "children": [
-          {
-            "id": "5769ce1d598947fe",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
           {
             "id": "db16c364b8553a1b",
             "type": "leaf",
@@ -128,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Objects/Objects.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,19 +215,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a0ca4f5c6721ce68",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
     "JS/1. Functions/Functions (JS).md",
+    "Back-end/Status Codes.md",
+    "JS/1. Functions/First-class Functions.md",
+    "Back-end/DB/SQL.md",
+    "Back-end/DB/Databases.md",
+    "Back-end/Node.js/Validation.md",
+    "Back-end/Node.js/Advanced Authentication.md",
     "Rust/Variables(Rs).md",
     "Rust/Functions(Rs).md",
     "Rust/Data Types(Rs).md",
+    "JS/TS/TypeScript.md",
+    "JS/TS",
+    "Front-end/React/React.md",
+    "Front-end/React",
+    "Front-end",
     "JS/Objects/Objects.md",
-    "JS/Objects",
-    "JS/1. Functions/First-class Functions.md",
-    "Back-end/Status Codes.md",
-    "Back-end/DB/Databases.md",
-    "Back-end/Node.js/Advanced Authentication.md",
     "JS/1. Functions/Async.md",
+    "Constructor.md",
+    "JS/Objects",
     "2023-08-25.md",
     "Async.md",
     "General/Statements.md",
@@ -207,12 +248,8 @@
     "Без назви.canvas",
     "2023-08-15.md",
     "Rust",
-    "Back-end/Node.js/Validation.md",
-    "Back-end/DB/SQL.md",
     "Back-end/DB",
     "Без назви 1.md",
-    "Без назви 1",
-    "Back-end/Node.js",
-    "Back-end"
+    "Без назви 1"
   ]
 }

@@ -1,3 +1,6 @@
+---
+tag: JS
+---
 Functions are [[First-class Functions]] in JS, because they can be passed to other functions, returned from functions, and assigned to variables and properties. They can also have properties and methods just like any other object. What distinguishes them from other objects is that functions can be called.
 
 
@@ -40,7 +43,6 @@ Broadly speaking, JavaScript has four kinds of functions:
 - Async generator function: returns an [`AsyncGenerator`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator) object; both the `await` and `yield` operators can be used
 
 For every kind of function, there are three ways to define it:
-
 - Declaration
 [`function`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function), [`function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*), [`async function`](Async functions.md), [`async function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function*)
 ``` JS
@@ -50,7 +52,7 @@ function multiply(x, y) {
 } // No need for semicolon here
 ```
 
-- Expression
+- [[Expressions|Expression]]
 [`function`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function), [`function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function*), [`async function`](Async functions.md), [`async function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/async_function*)
 ``` JS
 // Expression; the function is anonymous but assigned to a variable
@@ -87,9 +89,9 @@ const obj = {
 
 ### #Syntaxis_differences
 All syntaxes do approximately the same thing, but there are some subtle behavior differences.
-- The `Function()` constructor, `function` expression, and `function` declaration syntaxes create full-fledged **function objects**(!), which can be constructed with [[The "new" Operator|new]]. However, [[Arrow functions|arrow functions]] and methods cannot be constructed. Async functions, generator functions, and async generator functions are not constructible regardless of syntax.
+- The `Function()` [[Constructor|constructor]], `function` expression, and `function` declaration syntaxes create full-fledged **function [[Objects|objects]]**(!), which can be constructed with [[The "new" Operator|new]]. However, [[Arrow functions|arrow functions]] and methods cannot be constructed. [[Async functions|Async functions]], generator functions, and async generator functions are not constructible regardless of syntax.
 - The `function` declaration creates functions that are [_hoisted_](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_hoisting). Other syntaxes do not hoist the function and the function value is only visible after the definition.
 - The arrow function and `Function()` constructor always create _anonymous_ functions, which means they can't easily call themselves recursively. One way to call an arrow function recursively is by assigning it to a variable.
-- The arrow function syntax does not have access to `arguments` or `this`.
+- The arrow function `()=>{}` syntax does not have access to `arguments` or [[this]].
 - The `Function()` constructor cannot access any local variables — it only has access to the global scope.
 - The `Function()` constructor causes runtime compilation and is often slower than other syntaxes.

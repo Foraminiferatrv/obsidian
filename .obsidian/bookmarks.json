@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1692980178001,
+      "title": "Main graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:JS",
+            "color": {
+              "a": 1,
+              "rgb": 16514816
+            }
+          },
+          {
+            "query": "path:\"Rust\"",
+            "color": {
+              "a": 1,
+              "rgb": 16741120
+            }
+          },
+          {
+            "query": "path:General",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "path:\"Back-end\"",
+            "color": {
+              "a": 1,
+              "rgb": 1817606
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -1,
+        "nodeSizeMultiplier": 1.04427083333333,
+        "lineSizeMultiplier": 1.50364583333333,
+        "collapse-forces": false,
+        "centerStrength": 0.630208333333333,
+        "repelStrength": 10.1041666666667,
+        "linkStrength": 1,
+        "linkDistance": 187,
+        "scale": 1.000000000000014,
+        "close": false
+      }
+    }
+  ]
+}

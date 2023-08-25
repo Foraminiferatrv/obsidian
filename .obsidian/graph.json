@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 1817606
       }
+    },
+    {
+      "query": "path:Front-end/React",
+      "color": {
+        "a": 1,
+        "rgb": 40416
+      }
+    },
+    {
+      "query": "path:Front-end",
+      "color": {
+        "a": 1,
+        "rgb": 13960703
+      }
     }
   ],
   "collapse-display": false,
@@ -42,10 +56,10 @@
   "nodeSizeMultiplier": 1.04427083333333,
   "lineSizeMultiplier": 1.50364583333333,
   "collapse-forces": false,
-  "centerStrength": 0.565104166666667,
-  "repelStrength": 10,
+  "centerStrength": 0.614583333333333,
+  "repelStrength": 13.2291666666667,
   "linkStrength": 1,
-  "linkDistance": 187,
-  "scale": 0.7132754626224488,
+  "linkDistance": 194,
+  "scale": 0.5087618855792664,
   "close": true
 }
