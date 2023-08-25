@@ -35,7 +35,7 @@ Broadly speaking, JavaScript has four kinds of functions:
 
 - Regular function: can return anything; always runs to completion after invocation
 - Generator function: returns a [[Generator]] object; can be paused and resumed with the [`yield`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield) operator
-- Async function: returns a [`Promise`](Promises.md); can be paused and resumed with the [`await`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) operator
+- Async function: returns a [[Promises|`Promise`]]; can be paused and resumed with the [`await`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) operator
 - Async generator function: returns an [`AsyncGenerator`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator) object; both the `await` and `yield` operators can be used
 
 For every kind of function, there are three ways to define it:
@@ -69,7 +69,7 @@ const multiply = function funcName(x, y) {
 const multiply = new Function("x", "y", "return x * y");
 ```
 
-In addition, there are special syntaxes for defining [[arrow functions and [methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions), which provide more precise semantics for their usage. [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) are conceptually not functions (because they throw an error when called without `new`), but they also inherit from `Function.prototype` and have `typeof MyClass === "function"`.
+In addition, there are special syntaxes for defining [[Arrow functions| arrow functions]] and [methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions), which provide more precise semantics for their usage. [[Classes]] are conceptually not functions (because they throw an error when called without `new`), but they also inherit from `Function.prototype` and have `typeof MyClass === "function"`.
 
 ```JS
 // Arrow function

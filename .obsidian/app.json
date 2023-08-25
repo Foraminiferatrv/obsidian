@@ -1,4 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Back-end 📟"
+  "attachmentFolderPath": "Back-end 📟",
+  "showFrontmatter": true
 }

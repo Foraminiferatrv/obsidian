@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/1. Functions/Functions (JS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d57a631fc4323cd",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
-    "JS/1. Functions/Async.md",
     "JS/1. Functions/Functions (JS).md",
+    "JS/1. Functions/Async.md",
     "Async.md",
     "JS/1. Functions/First-class Functions.md",
     "Rust ⚙️/Variables.md",
