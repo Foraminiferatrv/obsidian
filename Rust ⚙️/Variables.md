@@ -7,7 +7,6 @@ const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
 
 ***Constants*** - are values that are bound to a name and are not allowed to change
 
-#Statements 
 *Constants:*
 -  You aren’t allowed to use  `mut` with constants.
 -  Constants can be declared in any scope, including the global scope, which makes them useful for values that many parts of code need to know about.

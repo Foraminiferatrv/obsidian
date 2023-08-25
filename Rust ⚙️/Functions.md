@@ -1,7 +1,7 @@
-Function bodies are made up of a series of [[Statements]] statements optionally ending in an [[Expressions]] expression.
+Function bodies are made up of a series of [Statements](Statements) statements optionally ending in an [Expressions](Expressions) expression.
 
-- #Statements are instructions that perform some action and do not return a value.
-- #Expressions evaluate to a resultant value. Let’s look at some examples.
+- [Statements] are instructions that perform some action and do not return a value.
+- [Expressions] evaluate to a resultant value. Let’s look at some examples.
 
 ## Statement
 ___

@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Expressions",
+                "query": "tag:#Statementsї",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,14 +86,25 @@
       {
         "id": "86c309990bf8dae6",
         "type": "tabs",
-        "dimension": 48.837209302325576,
+        "dimension": 78.97286821705426,
         "children": [
+          {
+            "id": "5769ce1d598947fe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
           {
             "id": "57d87f7756e73a54",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/1. Functions/Functions (JS).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/1. Functions/Functions (JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/1. Functions/Functions (JS).md"
+              }
             }
           },
           {
@@ -143,6 +157,25 @@
             }
           },
           {
+            "id": "21ed1f783a180e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust ⚙️/Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8af2be298b343ac",
+        "type": "tabs",
+        "dimension": 21.027131782945737,
+        "children": [
+          {
             "id": "d73fd0378a225d65",
             "type": "leaf",
             "state": {
@@ -150,27 +183,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "45fcef56fdaca315",
-        "type": "tabs",
-        "dimension": 51.162790697674424,
-        "children": [
-          {
-            "id": "3b3e24f4d7cf4f5d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,14 +200,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3e24f4d7cf4f5d",
+  "active": "e5d0933f9929c7da",
   "lastOpenFiles": [
-    "JS/1. Functions/Functions (JS).md",
     "JS/1. Functions/First-class Functions.md",
-    "JS/Promises.md",
     "Rust ⚙️/Variables.md",
-    "JS/1. Functions",
+    "General/Statements.md",
     "Rust ⚙️/Functions.md",
+    "General/Expressions.md",
+    "General",
+    "JS/1. Functions/Functions (JS).md",
+    "JS/Promises.md",
+    "JS/1. Functions",
     "Rust ⚙️/Data Types.md",
     "().md",
     "JS",

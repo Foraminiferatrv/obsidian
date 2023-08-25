@@ -8,23 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:JS",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "path:\"Rust ⚙️\"",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "path:General",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Back-end 📟\"",
+      "color": {
+        "a": 1,
+        "rgb": 1817606
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.03151041666667,
+  "lineSizeMultiplier": 1.95026041666667,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.565104166666667,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224457,
-  "close": false
+  "linkDistance": 124,
+  "scale": 0.5087618855792623,
+  "close": true
 }
