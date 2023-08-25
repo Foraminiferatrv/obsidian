@@ -69,7 +69,7 @@ const multiply = function funcName(x, y) {
 const multiply = new Function("x", "y", "return x * y");
 ```
 
-In addition, there are special syntaxes for defining [arrow functions]() and [methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions), which provide more precise semantics for their usage. [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) are conceptually not functions (because they throw an error when called without `new`), but they also inherit from `Function.prototype` and have `typeof MyClass === "function"`.
+In addition, there are special syntaxes for defining [[arrow functions and [methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions), which provide more precise semantics for their usage. [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) are conceptually not functions (because they throw an error when called without `new`), but they also inherit from `Function.prototype` and have `typeof MyClass === "function"`.
 
 ```JS
 // Arrow function
