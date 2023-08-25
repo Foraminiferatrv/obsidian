@@ -26,3 +26,28 @@ updateBrand(car);
 // updateBrand mutates car
 console.log(car.brand); // Toyota
 ```
+
+The [[this]] keyword refers to the object that the function is accessed on — it does not refer to the currently executing function, so you must refer to the function value by name, even within the function body.
+
+### [Defining functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions#defining_functions)
+
+Broadly speaking, JavaScript has four kinds of functions:
+
+- Regular function: can return anything; always runs to completion after invocation
+- Generator function: returns a [[Generator]] object; can be paused and resumed with the [`yield`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield) operator
+- Async function: returns a [`Promise`](Promises.md); can be paused and resumed with the [`await`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) operator
+- Async generator function: returns an [`AsyncGenerator`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator) object; both the `await` and `yield` operators can be used
+
+For every kind of function, there are three ways to define it:
+
+Declaration
+
+[`function`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function), [`function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*), [`async function`](Async functions.md), [`async function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function*)
+
+Expression
+
+[`function`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function), [`function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function*), [`async function`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/async_function), [`async function*`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/async_function*)
+
+Constructor
+
+[`Function()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function), [`GeneratorFunction()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction/GeneratorFunction), [`AsyncFunction()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncFunction/AsyncFunction), [`AsyncGeneratorFunction()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGeneratorFunction/AsyncGeneratorFunction)
