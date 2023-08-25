@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cfe6835c71d4c16",
+        "id": "36f267413917b55e",
         "type": "tabs",
         "children": [
           {
-            "id": "330807f0aa099d96",
+            "id": "a0ca4f5c6721ce68",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,33 +100,6 @@
             }
           },
           {
-            "id": "57d87f7756e73a54",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "be5f3df9d949e575",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "db16c364b8553a1b",
             "type": "leaf",
             "state": {
@@ -142,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/1. Functions/Functions (JS).md"
+              }
             }
           },
           {
@@ -154,16 +129,11 @@
             }
           },
           {
-            "id": "21ed1f783a180e23",
+            "id": "a1468389526c69da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust ⚙️/Variables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -185,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,35 +169,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "a0ca4f5c6721ce68",
   "lastOpenFiles": [
+    "JS/1. Functions/First-class Functions.md",
     "JS/1. Functions/Functions (JS).md",
+    "Back-end/Status Codes.md",
+    "Back-end/DB/Databases.md",
+    "Back-end/Node.js/Advanced Authentication.md",
+    "Rust/Variables.md",
     "JS/1. Functions/Async.md",
     "2023-08-25.md",
     "Async.md",
-    "JS/1. Functions/First-class Functions.md",
-    "Rust ⚙️/Variables.md",
     "General/Statements.md",
-    "Rust ⚙️/Functions.md",
+    "Rust/Functions.md",
     "General/Expressions.md",
     "General",
     "JS/Promises.md",
     "JS/1. Functions",
-    "Rust ⚙️/Data Types.md",
+    "Rust/Data Types.md",
     "().md",
     "JS",
     "Без назви.canvas",
     "2023-08-15.md",
-    "Rust ⚙️",
-    "Back-end 📟/📟 Node.js/Validation.md",
-    "Back-end 📟/DB/Databases.md",
-    "Back-end 📟/🔟 Status Codes.md",
-    "Back-end 📟/DB/SQL.md",
-    "Back-end 📟/DB",
-    "Back-end 📟/📟 Node.js/🔐 Advanced Authentication.md",
+    "Rust",
+    "Back-end/Node.js/Validation.md",
+    "Back-end/DB/SQL.md",
+    "Back-end/DB",
     "Без назви 1.md",
     "Без назви 1",
-    "Back-end 📟/📟 Node.js",
-    "Back-end 📟"
+    "Back-end/Node.js",
+    "Back-end"
   ]
 }

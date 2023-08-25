@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:\"Rust ⚙️\"",
+      "query": "path:\"Rust\"",
       "color": {
         "a": 1,
         "rgb": 16741120
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:\"Back-end 📟\"",
+      "query": "path:\"Back-end\"",
       "color": {
         "a": 1,
         "rgb": 1817606

@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasX",
+      "RiComputerLine",
+      "FasDatabase",
+      "SiPostgresql",
+      "FabNodeJs"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "JS": "FabJs",
+  "Rust": "FabRust",
+  "Back-end": "FasGear",
+  "JS/1. Functions": "RiFunctions",
+  "Back-end/Node.js": "FabNodeJs",
+  "Back-end/DB/SQL.md": "SiPostgresql",
+  "Back-end/DB/Databases.md": "FasDatabase",
+  "General": "RiComputerLine"
+}
