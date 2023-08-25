@@ -6,41 +6,30 @@
       {
         "id": "36f267413917b55e",
         "type": "tabs",
-        "dimension": 54.664996869129624,
+        "dimension": 63.40740740740741,
         "children": [
-          {
-            "id": "9cc146859e8689e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/TypeScript/TypeScript.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42b9ed50d40dc722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back-end/Node.js/Advanced Authentication.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
           {
             "id": "6dce37060668d3ff",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/JS.md",
+                "file": "JS/1. Functions/Functions (JS).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c2f058f50cf8176f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/1. Functions/Rest Parameter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,12 +37,12 @@
             }
           },
           {
-            "id": "f440656ac1a48553",
+            "id": "3eb0e05c0ade1b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/Front-end.md",
+                "file": "JS/Objects/Objects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,51 +50,12 @@
             }
           },
           {
-            "id": "9d318ee6df498256",
+            "id": "d622d442a385f6e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Rust.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0ca4f5c6721ce68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/JS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b351a10a4fe9eeaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/1. Functions/Function hoisting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c86b7112e6a712c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/1. Functions/First-class Functions.md",
+                "file": "JS/Objects/Getters & Setters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +67,7 @@
       {
         "id": "c532698ad0f00c73",
         "type": "tabs",
-        "dimension": 45.33500313087038,
+        "dimension": 36.592592592592595,
         "children": [
           {
             "id": "5769ce1d598947fe",
@@ -127,6 +77,19 @@
               "type": "graph",
               "state": {},
               "pinned": true
+            }
+          },
+          {
+            "id": "a40ad321d90a83a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Arrays/Array Methods/Array Methods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -213,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 247.5
   },
   "right": {
     "id": "67331d440f3f028f",
@@ -295,14 +258,21 @@
   },
   "active": "5769ce1d598947fe",
   "lastOpenFiles": [
-    "JS/TypeScript/TypeScript.md",
+    "JS/1. Functions/Functions (JS).md",
+    "JS/Objects/Getters & Setters.md",
+    "JS/Objects/Objects.md",
+    "JS/1. Functions/Rest Parameter.md",
+    "JS/Arrays/Array Methods/Array Methods.md",
+    "JS/Arrays/Array Methods",
+    "Untitled 1.md",
+    "JS/Arrays",
     "JS/JS.md",
+    "Front-end/Front-end.md",
+    "JS/TypeScript/TypeScript.md",
     "General Programming/General Programming.md",
     "Back-end/Back-end.md",
-    "Front-end/Front-end.md",
     "Back-end/DB/Databases.md",
     "Back-end/Node.js/Advanced Authentication.md",
-    "Untitled.md",
     "Back-end/Node.js/Validation.md",
     "Back-end/DB/SQL.md",
     "JS/1. Functions/Async.md",
@@ -311,7 +281,6 @@
     "Rust/Data Types(Rs).md",
     "JS/1. Functions/Function hoisting.md",
     "JS/1. Functions/First-class Functions.md",
-    "JS/1. Functions/Functions (JS).md",
     "Back-end/Status Codes.md",
     "Rust/Variables(Rs).md",
     "Rust/Functions(Rs).md",
@@ -319,18 +288,12 @@
     "Front-end/React/React.md",
     "Front-end/React",
     "Front-end",
-    "JS/Objects/Objects.md",
     "Constructor.md",
     "JS/Objects",
-    "2023-08-25.md",
-    "Async.md",
-    "General Programming/Statements.md",
     "General Programming",
     "JS/1. Functions",
     "JS",
     "Без назви.canvas",
-    "Rust",
-    "Back-end/DB",
-    "Без назви 1"
+    "Rust"
   ]
 }
