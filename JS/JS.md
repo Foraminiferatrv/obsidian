@@ -1,0 +1,11 @@
+1. [[Data structures (JS)]] 
+2. [[Operators (JS)|Operators]]
+3. [[Functions (JS)|Functions]]
+4. [[Arrays]]
+5. [[Objects]]
+6. [[Global objects (JS)|Global objects]]
+7. [[Classes]]
+8. [[V8]]
+9. [[TypeScript]]
+10. [[Asynchronous Programming]]
+11. 

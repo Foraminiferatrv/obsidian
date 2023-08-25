@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasGears",
+      "SiRust",
       "SiTypescript",
       "SiReact",
-      "FasBrush",
-      "FasBox",
-      "FasX"
+      "FasBrush"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,15 +24,18 @@
   },
   "JS": "FabJs",
   "Rust": "FabRust",
-  "Back-end": "FasGear",
+  "Back-end": "FasGears",
   "JS/1. Functions": "RiFunctions",
   "Back-end/Node.js": "FabNodeJs",
   "Back-end/DB/SQL.md": "SiPostgresql",
   "Back-end/DB/Databases.md": "FasDatabase",
-  "General": "RiComputerLine",
   "JS/Objects": "FasBox",
   "Front-end": "FasBrush",
   "Front-end/React": "SiReact",
-  "JS/TS": "SiTypescript",
-  "JS/TS/TypeScript.md": "SiTypescript"
+  "Rust/Rust.md": "SiRust",
+  "Front-end/Front-end.md": "FasBrush",
+  "Back-end/Back-end.md": "FasGears",
+  "General Programming": "RiComputerLine",
+  "JS/TypeScript": "SiTypescript",
+  "JS/TypeScript/TypeScript.md": "SiTypescript"
 }
