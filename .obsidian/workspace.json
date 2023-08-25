@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8e6bbf17bf4caa66",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cfe6835c71d4c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5d0933f9929c7da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/1. Functions/Functions (JS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc51548561a2dcef",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c8ca0b9e6df9d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d57a631fc4323cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a60721cbad70e63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Expressions",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d427fbf3861418a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d2a560deab3f679",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67331d440f3f028f",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c309990bf8dae6",
+        "type": "tabs",
+        "dimension": 20.73643410852713,
+        "children": [
+          {
+            "id": "57d87f7756e73a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JS/1. Functions/Functions (JS).md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be5f3df9d949e575",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JS/1. Functions/Functions (JS).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db16c364b8553a1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a8c3e6a4c446eb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JS/1. Functions/Functions (JS).md"
+              }
+            }
+          },
+          {
+            "id": "e42164c5c0644295",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "45fcef56fdaca315",
+        "type": "tabs",
+        "dimension": 79.26356589147287,
+        "children": [
+          {
+            "id": "3b3e24f4d7cf4f5d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "command-palette:Відкрити меню команд": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e5d0933f9929c7da",
+  "lastOpenFiles": [
+    "JS/1. Functions/Functions (JS).md",
+    "JS/1. Functions/First-class Functions.md",
+    "JS/1. Functions",
+    "Rust ⚙️/Functions.md",
+    "Rust ⚙️/Data Types.md",
+    "().md",
+    "JS",
+    "Rust ⚙️/Variables.md",
+    "Без назви.canvas",
+    "2023-08-15.md",
+    "Rust ⚙️",
+    "Back-end 📟/📟 Node.js/Validation.md",
+    "Back-end 📟/DB/Databases.md",
+    "Back-end 📟/🔟 Status Codes.md",
+    "Back-end 📟/DB/SQL.md",
+    "Back-end 📟/DB",
+    "Back-end 📟/📟 Node.js/🔐 Advanced Authentication.md",
+    "Без назви 1.md",
+    "Без назви 1",
+    "Back-end 📟/📟 Node.js",
+    "Back-end 📟"
+  ]
+}
