@@ -6,7 +6,7 @@
       {
         "id": "36f267413917b55e",
         "type": "tabs",
-        "dimension": 63.40740740740741,
+        "dimension": 48.06866952789699,
         "children": [
           {
             "id": "6dce37060668d3ff",
@@ -67,7 +67,7 @@
       {
         "id": "c532698ad0f00c73",
         "type": "tabs",
-        "dimension": 36.592592592592595,
+        "dimension": 51.931330472103,
         "children": [
           {
             "id": "5769ce1d598947fe",
@@ -185,7 +185,7 @@
       {
         "id": "86c309990bf8dae6",
         "type": "tabs",
-        "dimension": 78.97286821705426,
+        "dimension": 54.360465116279066,
         "children": [
           {
             "id": "db16c364b8553a1b",
@@ -227,7 +227,7 @@
       {
         "id": "a8af2be298b343ac",
         "type": "tabs",
-        "dimension": 21.02713178294574,
+        "dimension": 45.63953488372093,
         "children": [
           {
             "id": "d73fd0378a225d65",
@@ -256,7 +256,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "d73fd0378a225d65",
   "lastOpenFiles": [
     "JS/1. Functions/Functions (JS).md",
     "JS/Objects/Getters & Setters.md",
