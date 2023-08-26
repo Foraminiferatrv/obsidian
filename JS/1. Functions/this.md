@@ -1,4 +1,4 @@
-In JavaScript, the `this` keyword refers to an **[[Objects|object]]**.
+>In JavaScript, the `this` keyword refers to an **[[Objects|object]]**.
 
 **Which** object depends on how `this` is being invoked (used or called).
 
@@ -10,6 +10,6 @@ The `this` keyword refers to different objects depending on how it is used:
 - In an [[Events|event]], `this` refers to the **element** that received the event.
 - Methods like `call()`, `apply()`, and `bind()` can refer `this` to **any object**.
 
-In most cases, the value of `this` is determined by how a function is called (runtime [[Terms#Binding|binding]]). It can't be set by assignment during execution, and it may be different each time the function is called. 
+In most cases, the value of `this` is determined by how a function is called (runtime [[Binding|binding]]). It can't be set by assignment during execution, and it may be different each time the function is called. 
 
 The [[bind()]]  method can set the value of a function's this regardless of how it's called, and arrow functions don't provide their own this binding (it retains the this value of the enclosing lexical context).

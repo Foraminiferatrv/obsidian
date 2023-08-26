@@ -1,0 +1,5 @@
+>In programming, a **binding** is an association of an [identifier](https://developer.mozilla.org/en-US/docs/Glossary/Identifier) with a value. Not all bindings are [[Variables (JS)|variables]] — for example, function [parameters](https://developer.mozilla.org/en-US/docs/Glossary/Parameter) and the binding created by the [`catch (e)`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) block are not "variables" in the strict sense. In addition, some bindings are implicitly created by the language — for example, [[this]] and [`new.target`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new.target) in JavaScript.
+
+A binding is [[Mutability(JS)|mutable]] if it can be re-assigned, and [[Mutability(JS)|immutable]] otherwise; this does _not_ mean that the value it holds is immutable.
+
+A binding is often associated with a [[Scope (JS)|scope]]. Some languages allow re-creating bindings (also called redeclaring) within the same scope, while others don't; in JavaScript, whether bindings can be redeclared depends on the construct used to create the binding.

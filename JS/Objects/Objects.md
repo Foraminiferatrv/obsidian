@@ -4,7 +4,7 @@ tag: JS
 
 [Source: MDN]( https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
-	In short: Objects are variables that can contain many values.
+>In short: Objects are variables that can contain many values.
 
 An **object** is a collection of related data and/or functionality. These usually consist of several variables and functions (which are called ***properties*** and ***methods*** when they are inside objects). 
 
@@ -23,9 +23,9 @@ const objectName = {
 };
 ```
 
-An object like this is referred to as an **object [[Terms#^7f757c|literal]]** — we've literally written out the object contents as we've come to create it. This is different compared to objects instantiated from [[Classes|classes]].
+An object like this is referred to as an **object [[Literal|literal]]** — we've literally written out the object contents as we've come to create it. This is different compared to objects instantiated from [[Classes|classes]].
 
-Properties of an object can be accessed using [[Terms#^58b031|dot notation]] or bracket notation `person["age"]`.
+Properties of an object can be accessed using **dot notation** or bracket notation `person["age"]`.
 
 
 The **`Object`** type represents one of [[Data structures (JS)|data structures]]. It is used to store various keyed collections and more complex entities. Objects can be created using the [`Object()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object) constructor or the [object initializer / literal syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer).

@@ -97,7 +97,7 @@ All syntaxes do approximately the same thing, but there are some subtle behavior
 - The `function` declaration creates functions that are [[Function hoisting|hoisted]]. Other syntaxes ***do not hoist*** the function and the function value is only visible after the definition.
 - The arrow function and `Function()` constructor always create _anonymous_ functions, which means they can't easily call themselves [[Recursion|recursively]]. One way to call an arrow function recursively is by assigning it to a variable.
 - The arrow function `()=>{}` syntax does not have access to `arguments` or [[this]].
-- The `Function()` constructor cannot access any local variables — it only has access to the global [[Scope|scope]].
+- The `Function()` constructor cannot access any local variables — it only has access to the global [[Scope (JS)|scope]].
 - The `Function()` constructor causes runtime compilation and is often slower than other syntaxes.
 
 For `function` expressions, there is a distinction between the function name and the variable the function is assigned to. **The function name cannot be changed, while the variable the function is assigned to can be reassigned.*** The function name can be different from the variable the function is assigned to — they have no relation to each other. The function name can be used only within the function's body.

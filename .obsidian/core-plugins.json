@@ -16,8 +16,6 @@
   "bookmarks",
   "zk-prefixer",
   "outline",
-  "word-count",
   "workspaces",
-  "file-recovery",
-  "sync"
+  "file-recovery"
 ]
