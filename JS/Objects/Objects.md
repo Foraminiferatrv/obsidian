@@ -25,8 +25,16 @@ const objectName = {
 
 An object like this is referred to as an **object [[Terms#^7f757c|literal]]** — we've literally written out the object contents as we've come to create it. This is different compared to objects instantiated from [[Classes|classes]].
 
+Properties of an object can be accessed using [[Terms#^58b031|dot notation]] or bracket notation `person["age"]`.
+
+
 The **`Object`** type represents one of [[Data structures (JS)|data structures]]. It is used to store various keyed collections and more complex entities. Objects can be created using the [`Object()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object) constructor or the [object initializer / literal syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer).
 
+___
+### "this" keyword
+The `this` keyword refers to the current object the code is being written inside.
+
+_____
 
 
 [[The "new" Operator|new]]
