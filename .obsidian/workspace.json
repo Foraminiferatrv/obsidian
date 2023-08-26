@@ -23,19 +23,35 @@
             }
           },
           {
-            "id": "4be47a8dbe15bbaa",
+            "id": "a516f0e3bbc14598",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Programming/Terms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "03586cf0c90c0a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Objects/Objects.md",
+                "file": "JS/1. Functions/Currying.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md"
+                "file": "General Programming/Terms.md"
               }
             }
           },
@@ -156,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md",
+                "file": "General Programming/Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md",
+                "file": "General Programming/Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,23 +222,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6dce37060668d3ff",
+  "active": "a516f0e3bbc14598",
   "lastOpenFiles": [
+    "JS/1. Functions/Currying.md",
+    "General Programming/Terms.md",
     "JS/Objects/Objects.md",
     "JS/1. Functions/Functions (JS).md",
+    "General Programming/General Programming.md",
+    "JS/Variables (JS).md",
+    "JS/JS.md",
     "JS/1. Functions/Scope.md",
     "JS/1. Functions/First-class Functions.md",
     "JS/1. Functions/Rest Parameter.md",
     "JS/Objects/Getters & Setters.md",
     "JS/1. Functions/Function hoisting.md",
-    "JS/JS.md",
     "JS/Arrays/Array Methods/Array Methods.md",
     "JS/Arrays/Array Methods",
     "Untitled 1.md",
     "JS/Arrays",
     "Front-end/Front-end.md",
     "JS/TypeScript/TypeScript.md",
-    "General Programming/General Programming.md",
     "Back-end/Back-end.md",
     "Back-end/DB/Databases.md",
     "Back-end/Node.js/Advanced Authentication.md",
@@ -233,10 +252,7 @@
     "Rust/Rust.md",
     "Rust/Data Types(Rs).md",
     "Back-end/Status Codes.md",
-    "Rust/Variables(Rs).md",
-    "Rust/Functions(Rs).md",
     "JS/TypeScript",
-    "Front-end/React/React.md",
     "Front-end/React",
     "Front-end",
     "JS/Objects",
