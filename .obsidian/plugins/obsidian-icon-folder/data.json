@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiComputerLine",
       "RiBracketsFill",
       "FasGears",
       "SiRust",
-      "SiTypescript",
-      "SiReact"
+      "SiTypescript"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "General Programming": "RiComputerLine",
   "JS/TypeScript": "SiTypescript",
   "JS/TypeScript/TypeScript.md": "SiTypescript",
-  "JS/Arrays": "RiBracketsFill"
+  "JS/Arrays": "RiBracketsFill",
+  "General Programming/General Programming.md": "RiComputerLine"
 }

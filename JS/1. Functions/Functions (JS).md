@@ -1,6 +1,10 @@
 ---
 tag: JS
 ---
+	A JavaScript function is a block of code designed to perform a particular task.
+
+	A JavaScript function is executed when "something" invokes it (calls it).
+
 Functions are [[First-class Functions]] in JS, because they can be passed to other functions, returned from functions, and assigned to variables and properties. They can also have properties and methods just like any other object. What distinguishes them from other objects is that functions can be called.
 
 
