@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Objects/Constructor.md",
+                "file": "JS/The new Operator.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Objects/Constructor.md"
+                "file": "JS/The new Operator.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Objects/Constructor.md",
+                "file": "JS/The new Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Objects/Constructor.md",
+                "file": "JS/The new Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       },
       {
         "id": "ee8fcb75be13a59d",
@@ -200,14 +200,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "03586cf0c90c0a79",
+  "active": "d73fd0378a225d65",
   "lastOpenFiles": [
-    "JS/Data Types (JS).md",
-    "Rust/Data Types(Rs).md",
+    "JS/The new Operator.md",
     "JS/Objects/Constructor.md",
     "JS/Objects/Object(JS).md",
-    "JS/Objects/Built-in Objects.md",
     "JS/1. Functions/Functions (JS).md",
+    "JS/Data Types (JS).md",
+    "Rust/Data Types(Rs).md",
+    "JS/Objects/Built-in Objects.md",
     "General Programming/Terms/Literal.md",
     "General Programming/Terms/Scope.md",
     "General Programming/Terms/Currying.md",
@@ -228,7 +229,6 @@
     "General Programming/General Programming.md",
     "General Programming/Terms",
     "General Programming/Binding.md",
-    "JS/Variables (JS).md",
     "JS/Arrays/Array Methods",
     "JS/Arrays",
     "JS/TypeScript",
