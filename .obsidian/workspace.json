@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md",
+                "file": "JS/1. Functions/bind().md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/1. Functions/Functions (JS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/1. Functions/Functions (JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: con",
+                "query": "file: Data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 1091.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,37 +196,37 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "03586cf0c90c0a79",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
+    "JS/1. Functions/bind().md",
     "JS/Objects/Constructor.md",
-    "General Programming/Terms/Binding.md",
     "JS/1. Functions/Functions (JS).md",
-    "JS/Objects/Object.md",
-    "Data structures (JS).md",
+    "Back-end/Node.js/Advanced Authentication.md",
+    "JS/Objects/Getters & Setters.md",
+    "JS/1. Functions/this.md",
+    "JS/Data Types (JS).md",
+    "JS/1. Functions/First-class Functions.md",
     "JS/JS.md",
+    "JS/1. Functions/Rest Parameter.md",
+    "Arrays.md",
+    "JS/Objects/Object(JS).md",
+    "boolean(JS).md",
+    "General Programming/Terms/Binding.md",
     "General Programming/Terms/Currying.md",
     "202308261659.md",
-    "JS/1. Functions/this.md",
     "General Programming/Terms.md",
     "General Programming/Terms/Scope.md",
     "JS/1. Functions/Scope (JS).md",
     "General Programming/General Programming.md",
     "General Programming/Terms/Literal.md",
     "General Programming/Terms",
-    "JS/1. Functions/bind().md",
     "General Programming/Binding.md",
     "JS/Variables (JS).md",
-    "JS/1. Functions/First-class Functions.md",
-    "JS/1. Functions/Rest Parameter.md",
-    "JS/Objects/Getters & Setters.md",
     "JS/1. Functions/Function hoisting.md",
     "JS/Arrays/Array Methods/Array Methods.md",
     "JS/Arrays/Array Methods",
     "Untitled 1.md",
     "JS/Arrays",
-    "Front-end/Front-end.md",
-    "JS/TypeScript/TypeScript.md",
-    "Back-end/Back-end.md",
     "JS/TypeScript",
     "Front-end/React",
     "Front-end",

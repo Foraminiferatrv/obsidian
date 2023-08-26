@@ -28,7 +28,7 @@ An object like this is referred to as an **object [[Literal|literal]]** — we
 Properties of an object can be accessed using **dot notation** or bracket notation `person["age"]`.
 
 
-The **`Object`** type represents one of [[Data structures (JS)|data structures]]. It is used to store various keyed collections and more complex entities. Objects can be created using the [`Object()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object) constructor or the [object initializer / literal syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer).
+The **`Object`** type represents one of [[Data Structures (JS)|data structures]]. It is used to store various keyed collections and more complex entities. Objects can be created using the [`Object()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object) constructor or the [object initializer / literal syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer).
 
 ___
 ### "this" keyword

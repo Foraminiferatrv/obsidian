@@ -1,7 +1,7 @@
 >The **`constructor`** method is a special method of a [[Class|class]] for creating and initializing an object instance of that class.
 
 A constructor is just a function ==**called using the [[The "new" Operator|new]] keyword**==. When you call a constructor, it will:
-- create a new [[Object|object]]
+- create a new [[Object(JS)|object]]
 - [[Binding|bind]] `this` to the new object, so you can refer to `this` in your constructor code
 - run the code in the constructor
 - return the new object.

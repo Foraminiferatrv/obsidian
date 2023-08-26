@@ -1,9 +1,11 @@
-
+---
+tag: JS
+---
 ## `Function.prototype.bind()`
 
 ==With the `bind()` method, an object can borrow a method from another object.==
 
-The **`bind()`** method of [[Functions (JS)|Function]] instances creates a new function that, when called, calls this function with its `this` keyword set to the provided value, and a given sequence of arguments preceding any provided when the new function is called.
+>The **`bind()`** method of [[Functions (JS)|Function]] instances creates a new function that, when called, calls this function with its `this` keyword set to the provided value, and a given sequence of arguments preceding any provided when the new function is called.
 
 ```JS
 const person = {  

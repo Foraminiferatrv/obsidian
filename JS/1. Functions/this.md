@@ -1,4 +1,7 @@
->In JavaScript, the `this` keyword refers to the current [[Object|object]] the code is being written inside
+---
+tag: JS
+---
+>In JavaScript, the `this` keyword refers to the current [[Object(JS)|object]] the code is being written inside
 
 >`this` keyword is extremely useful when using [[Constructor|constructors]] to create more than one object from a single object definition, and that's the subject of the next section.
 
