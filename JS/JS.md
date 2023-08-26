@@ -3,7 +3,7 @@
 3. [[Operators (JS)|Operators]]
 4. [[Functions (JS)|Functions]]
 5. [[Arrays]]
-6. [[Objects]]
+6. [[Object]]
 7. [[Global objects (JS)|Global objects]]
 8. [[Classes]]
 9. [[V8]]

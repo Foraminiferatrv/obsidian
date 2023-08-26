@@ -1,6 +1,10 @@
->In JavaScript, the `this` keyword refers to an **[[Objects|object]]**.
+>In JavaScript, the `this` keyword refers to the current [[Object|object]] the code is being written inside
+
+>`this` keyword is extremely useful when using [[Constructor|constructors]] to create more than one object from a single object definition, and that's the subject of the next section.
+
 
 **Which** object depends on how `this` is being invoked (used or called).
+
 
 The `this` keyword refers to different objects depending on how it is used:
 - In an object method, `this` refers to the **object**.

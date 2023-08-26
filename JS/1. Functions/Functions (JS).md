@@ -93,7 +93,7 @@ const obj = {
 
 ### #Syntaxis_differences
 All syntaxes do approximately the same thing, but there are some subtle behavior differences.
-- The `Function()` [[Constructor|constructor]], `function` expression, and `function` declaration syntaxes create ==full-fledged **function [[Objects|objects]]**(!),== which can be constructed with [[The "new" Operator|new]]. However, [[Arrow functions|arrow functions]] and methods cannot be constructed. [[Async functions|Async functions]], generator functions, and async generator functions are not constructible regardless of syntax.
+- The `Function()` [[Constructor|constructor]], `function` expression, and `function` declaration syntaxes create ==full-fledged **function [[Object|objects]]**(!),== which can be constructed with [[The "new" Operator|new]]. However, [[Arrow functions|arrow functions]] and methods cannot be constructed. [[Async functions|Async functions]], generator functions, and async generator functions are not constructible regardless of syntax.
 - The `function` declaration creates functions that are [[Function hoisting|hoisted]]. Other syntaxes ***do not hoist*** the function and the function value is only visible after the definition.
 - The arrow function and `Function()` constructor always create _anonymous_ functions, which means they can't easily call themselves [[Recursion|recursively]]. One way to call an arrow function recursively is by assigning it to a variable.
 - The arrow function `()=>{}` syntax does not have access to `arguments` or [[this]].
