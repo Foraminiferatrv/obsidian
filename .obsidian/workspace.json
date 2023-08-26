@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "00313db6a92ce0bd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Objects/Objects.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "03586cf0c90c0a79",
             "type": "leaf",
             "state": {
@@ -51,19 +66,20 @@
             }
           },
           {
-            "id": "00313db6a92ce0bd",
+            "id": "7be0b784d66023ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/JS.md",
+                "file": "JS/1. Functions/this.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,10 +248,12 @@
   },
   "active": "5769ce1d598947fe",
   "lastOpenFiles": [
+    "JS/1. Functions/this.md",
     "JS/Objects/Objects.md",
     "General Programming/Terms.md",
-    "JS/1. Functions/Functions (JS).md",
+    "General Programming/Binding.md",
     "JS/JS.md",
+    "JS/1. Functions/Functions (JS).md",
     "General Programming/Currying.md",
     "General Programming/General Programming.md",
     "JS/Variables (JS).md",
@@ -258,8 +276,6 @@
     "JS/1. Functions/Async.md",
     "Data structures (JS).md",
     "Rust/Rust.md",
-    "Rust/Data Types(Rs).md",
-    "Back-end/Status Codes.md",
     "JS/TypeScript",
     "Front-end/React",
     "Front-end",
