@@ -5,7 +5,7 @@
 5. [[Arrays]]
 6. [[Object]]
 7. [[Global objects (JS)|Global objects]]
-8. [[Classes]]
+8. [[Class]]
 9. [[V8]]
 10. [[TypeScript]]
 11. [[Asynchronous Programming]]

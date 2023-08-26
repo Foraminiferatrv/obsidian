@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Programming/Terms/Currying.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7be0b784d66023ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202308261659.md",
+                "file": "JS/1. Functions/Functions (JS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,21 +39,6 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "6a60721cbad70e63",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#Rs",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -101,6 +72,7 @@
       {
         "id": "86c309990bf8dae6",
         "type": "tabs",
+        "dimension": 80.62015503875969,
         "children": [
           {
             "id": "db16c364b8553a1b",
@@ -119,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202308261659.md"
+                "file": "JS/1. Functions/Functions (JS).md"
               }
             }
           },
@@ -155,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202308261659.md",
+                "file": "JS/1. Functions/Functions (JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202308261659.md",
+                "file": "JS/1. Functions/Functions (JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,10 +160,32 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "ee8fcb75be13a59d",
+        "type": "tabs",
+        "dimension": 19.379844961240313,
+        "children": [
+          {
+            "id": "6a60721cbad70e63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file: con",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 710.5
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,14 +200,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7be0b784d66023ae",
+  "active": "03586cf0c90c0a79",
   "lastOpenFiles": [
-    "202308261659.md",
     "JS/Objects/Constructor.md",
-    "JS/1. Functions/this.md",
     "General Programming/Terms/Binding.md",
-    "General Programming/Terms/Currying.md",
+    "JS/1. Functions/Functions (JS).md",
     "JS/Objects/Object.md",
+    "Data structures (JS).md",
+    "JS/JS.md",
+    "General Programming/Terms/Currying.md",
+    "202308261659.md",
+    "JS/1. Functions/this.md",
     "General Programming/Terms.md",
     "General Programming/Terms/Scope.md",
     "JS/1. Functions/Scope (JS).md",
@@ -222,8 +219,6 @@
     "General Programming/Terms",
     "JS/1. Functions/bind().md",
     "General Programming/Binding.md",
-    "JS/JS.md",
-    "JS/1. Functions/Functions (JS).md",
     "JS/Variables (JS).md",
     "JS/1. Functions/First-class Functions.md",
     "JS/1. Functions/Rest Parameter.md",
@@ -236,7 +231,6 @@
     "Front-end/Front-end.md",
     "JS/TypeScript/TypeScript.md",
     "Back-end/Back-end.md",
-    "Back-end/DB/Databases.md",
     "JS/TypeScript",
     "Front-end/React",
     "Front-end",

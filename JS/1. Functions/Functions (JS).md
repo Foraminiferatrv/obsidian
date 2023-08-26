@@ -1,12 +1,13 @@
 ---
 tag: JS
 ---
-	A JavaScript function is a block of code designed to perform a particular task.
+>A JavaScript function is a block of code designed to perform a particular task.
 
-	A JavaScript function is executed when "something" invokes it (calls it).
+
+
+>A JavaScript function is executed when "something" invokes it (calls it).
 
 Functions are [[First-class Functions]] in JS, because they can be passed to other functions, returned from functions, and assigned to variables and properties. They can also have properties and methods just like any other object. What distinguishes them from other objects is that functions can be called.
-
 
 Arguments are always [_passed by value_](https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_reference) and never _passed by reference_. This means that if a function reassigns a parameter, the value won't change outside the function. More precisely, object arguments are [_passed by sharing_](https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_sharing), which means if the object's properties are mutated, the change will impact the outside of the function. For example: 
 
@@ -76,7 +77,7 @@ const multiply = function funcName(x, y) {
 const multiply = new Function("x", "y", "return x * y");
 ```
 
-In addition, there are special syntaxes for defining [[Arrow functions| arrow functions]] and [methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions), which provide more precise semantics for their usage. [[Classes]] are conceptually not functions (because they throw an error when called without `new`), but they also inherit from `Function.prototype` and have `typeof MyClass === "function"`.
+In addition, there are special syntaxes for defining [[Arrow functions| arrow functions]] and [methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions), which provide more precise semantics for their usage. [[Class|Classes]] are conceptually not functions (because they throw an error when called without `new`), but they also inherit from `Function.prototype` and have `typeof MyClass === "function"`.
 
 ```JS
 // Arrow function

@@ -23,7 +23,7 @@ const objectName = {
 };
 ```
 
-An object like this is referred to as an **object [[Literal|literal]]** — we've literally written out the object contents as we've come to create it. This is different compared to objects instantiated from [[Classes|classes]].
+An object like this is referred to as an **object [[Literal|literal]]** — we've literally written out the object contents as we've come to create it. This is different compared to objects instantiated from [[Class|classes]].
 
 Properties of an object can be accessed using **dot notation** or bracket notation `person["age"]`.
 
