@@ -39,7 +39,7 @@ _____
 
 Almost all objects in JavaScript are instances of `Object` and they inherit its properties from `Object.prototype` although these properties may be [[Shadowing|shadowed]] (a.k.a. overridden).
 
-The only objects that don't inherit from `Object.prototype` are those with [[#null-prototype objects|null prototype]], or descended from other `null`prototype objects.
+The only objects that don't inherit from `Object.prototype` are those with [[#null-prototype objects|null prototype]], or descended from other `null` prototype objects.
 
 ### Object [[Inheritance(JS)|prototype]] properties
 

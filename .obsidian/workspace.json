@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrow functions.md",
+                "file": "JS/JS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 636.5
+    "width": 1002.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,12 +190,18 @@
   },
   "active": "5769ce1d598947fe",
   "lastOpenFiles": [
-    "Arrow functions.md",
+    "JS/JS.md",
+    "JS/Classes/extends(JS).md",
+    "Prototype.md",
+    "JS/Objects/Object(JS).md",
+    "JS/Operators (JS).md",
+    "JS/The new Operator.md",
+    "JS/1. Functions/Arrow functions.md",
+    "JS/1. Functions/Functions (JS).md",
     "JS/Objects/Prototype(JS).md",
     "General Programming/Terms/Currying.md",
     "JS/Objects/Inheritance(JS).md",
     "JS/Classes/Class(JS).md",
-    "JS/Classes/extends(JS).md",
     "JS/Classes/Static Fields and Methods.md",
     "JS/Class/Untitled",
     "JS/Classes",
@@ -204,16 +210,12 @@
     "General Programming/Expression.md",
     "attachments/Pasted image 20230827143748.png",
     "attachments/Pasted image 20230827143711.png",
-    "JS/Objects/Object(JS).md",
-    "JS/JS.md",
     "JS/Objects/Constructor.md",
-    "JS/The new Operator.md",
     "attachments/Pasted image 20230827133843.png",
     "attachments/Pasted image 20230827133814.png",
     "attachments/Untitled.md",
     "attachments",
     "attachments/Pasted image 20230827133134.png",
-    "JS/1. Functions/Functions (JS).md",
     "JS/Data Types (JS).md",
     "Rust/Data Types(Rs).md",
     "JS/Objects/Built-in Objects.md",
@@ -222,8 +224,6 @@
     "Back-end/Node.js/Validation.md",
     "JS/1. Functions/bind().md",
     "Back-end/Node.js/Advanced Authentication.md",
-    "JS/Objects/Getters & Setters.md",
-    "JS/Objects/this.md",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",

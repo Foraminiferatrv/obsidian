@@ -1,5 +1,5 @@
 
->`new` [[Operators (JS)|operator]]  is an operator that creates a new instance *(екземпляр)* of a object
+>`new` [[Operators (JS)|operator]]  is an [[Operators (JS)|operator]] that creates a new instance *(екземпляр)* of a object
 
 The **`new`** operator lets developers create an instance of a user-defined object type or of one of the built-in object types that has a [[Constructor|constructor]] function.
 

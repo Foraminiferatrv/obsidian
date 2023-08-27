@@ -15,7 +15,7 @@ class DateFormatter extends Date {
 
 ## extends Under the Hood
 
-We can set the [[Prototype]] of `Constructor.prototype` via the `Object.setPrototypeOf()` function.
+We can set the [[Prototype(JS)|Prototype]] of `Constructor.prototype` via the `Object.setPrototypeOf()` function.
 >This is an equivalent to using `extends` keyword in classes.
 
 ```js
