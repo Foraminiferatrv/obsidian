@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/The new Operator.md",
+                "file": "JS/Objects/Object(JS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Objects/Object(JS).md"
+              }
             }
           },
           {
@@ -125,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Objects/Object(JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Objects/Object(JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1541.6000000000001
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +200,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "1d57a631fc4323cd",
   "lastOpenFiles": [
-    "JS/The new Operator.md",
-    "JS/Objects/Constructor.md",
     "JS/Objects/Object(JS).md",
+    "JS/Objects/Constructor.md",
+    "JS/The new Operator.md",
     "JS/1. Functions/Functions (JS).md",
     "JS/Data Types (JS).md",
     "Rust/Data Types(Rs).md",

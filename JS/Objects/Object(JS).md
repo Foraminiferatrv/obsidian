@@ -31,7 +31,14 @@ Properties of an object can be accessed using **dot notation** or bracket notati
 The **`Object`** type represents one of [[Data Structures (JS)|data structures]]. It is used to store various keyed collections and more complex entities. Objects can be created using the [`Object()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object) constructor or the [object initializer / literal syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer).
 
 ___
-### "this" keyword
+## "[[this]]" keyword
 The `this` keyword refers to the current object the code is being written inside.
 
 _____
+## Detailed description
+
+Almost all objects in JavaScript are instances of `Object` and they inherit its properties from `Object.prototype` although these properties may be [[Shadowing|shadowed]] (a.k.a. overridden).
+
+The only objects that don't inherit from `Object.prototype` are those with [[#null-prototype objects|null prototype]], or descended from other `null`prototype objects.
+
+### null-prototype objects

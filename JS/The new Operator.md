@@ -1,5 +1,7 @@
 
-The **`new`** operator lets developers create an instance of a user-defined object type or of one of the built-in object types that has a constructor function.
+>`new` [[Operators (JS)|operator]]  is an operator that creates a new instance *(екземпляр)* of a object
+
+The **`new`** operator lets developers create an instance of a user-defined object type or of one of the built-in object types that has a [[Constructor|constructor]] function.
 
 When a function is called with the **`new`** keyword, the function will be used as a [[Constructor|constructor]]. `new` will do the following things:
 
