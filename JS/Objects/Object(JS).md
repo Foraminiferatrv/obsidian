@@ -41,4 +41,8 @@ Almost all objects in JavaScript are instances of `Object` and they inherit its 
 
 The only objects that don't inherit from `Object.prototype` are those with [[#null-prototype objects|null prototype]], or descended from other `null`prototype objects.
 
+### Object [[Inheritance(JS)|prototype]] properties
+
+You should avoid calling any `Object.prototype` method, especially those that are not intended to be polymorphic
+
 ### null-prototype objects
