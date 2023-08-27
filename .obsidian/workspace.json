@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/JS.md",
+                "file": "JS/1. Functions/Arrow functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -169,11 +169,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 1002.5
+    "width": 641.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,15 +188,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "d73fd0378a225d65",
   "lastOpenFiles": [
+    "JS/1. Functions/Arrow functions.md",
+    "Prototype.md",
+    "call.md",
+    "General Programming/Closure.md",
+    "General Programming/Expression.md",
     "JS/JS.md",
     "JS/Classes/extends(JS).md",
-    "Prototype.md",
     "JS/Objects/Object(JS).md",
     "JS/Operators (JS).md",
     "JS/The new Operator.md",
-    "JS/1. Functions/Arrow functions.md",
     "JS/1. Functions/Functions (JS).md",
     "JS/Objects/Prototype(JS).md",
     "General Programming/Terms/Currying.md",
@@ -207,7 +210,6 @@
     "JS/Classes",
     "JS/Temporal dead zone (TDZ).md",
     "JS/1. Functions/Hoisting.md",
-    "General Programming/Expression.md",
     "attachments/Pasted image 20230827143748.png",
     "attachments/Pasted image 20230827143711.png",
     "JS/Objects/Constructor.md",
@@ -222,8 +224,6 @@
     "General Programming/Terms/Literal.md",
     "General Programming/Terms/Scope.md",
     "Back-end/Node.js/Validation.md",
-    "JS/1. Functions/bind().md",
-    "Back-end/Node.js/Advanced Authentication.md",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",
