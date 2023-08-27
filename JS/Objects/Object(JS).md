@@ -23,7 +23,7 @@ const objectName = {
 };
 ```
 
-An object like this is referred to as an **object [[Literal|literal]]** — we've literally written out the object contents as we've come to create it. This is different compared to objects instantiated from [[Class|classes]].
+An object like this is referred to as an **object [[Literal|literal]]** — we've literally written out the object contents as we've come to create it. This is different compared to objects instantiated from [[Class(JS)|classes]].
 
 Properties of an object can be accessed using **dot notation** or bracket notation `person["age"]`.
 
@@ -44,5 +44,10 @@ The only objects that don't inherit from `Object.prototype` are those with [[
 ### Object [[Inheritance(JS)|prototype]] properties
 
 You should avoid calling any `Object.prototype` method, especially those that are not intended to be polymorphic
+
+### Objects created with `constructor()`
+
+Every instance created from a [[Constructor|constructor]] function will automatically have the constructor's [[Prototype(JS)#` Prototype `|prototype]] property as its `[[Prototype]]`.
+
 
 ### null-prototype objects

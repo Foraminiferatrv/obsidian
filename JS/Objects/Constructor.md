@@ -1,4 +1,6 @@
->The **`constructor`** method is a special method of a [[Class|class]] for creating and initializing an object instance of that class.
+>The **`constructor`** method is a special method of a [[Class(JS)|class]] for creating and initializing an object instance of that class.
+
+>Constructors are functions called with [[The new Operator|new]].
 
 ```js
 class Polygon {

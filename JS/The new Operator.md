@@ -10,4 +10,4 @@ When a function is called with the **`new`** keyword, the function will be use
 3.  Executes the constructor function with the given arguments, binding `newInstance` as the [[this]] context (i.e. all references to `this` in the constructor function now refer to `newInstance`).
 4. If the constructor function returns a [[Data Types (JS)#^bc81c3|non-primitive]], this return value becomes the result of the whole `new` expression. Otherwise, if the constructor function doesn't return anything or returns a [[Data Types (JS)#^472e0c|primitive]], `newInstance` is returned instead. (Normally constructors don't return a value, but they can choose to do so to override the normal object creation process.)
 
->[[Class|Classes]] can only be instantiated with the `new` operator — attempting to call a class without `new` will throw a `TypeError`.
+>[[Class(JS)|Classes]] can only be instantiated with the `new` operator — attempting to call a class without `new` will throw a `TypeError`.
