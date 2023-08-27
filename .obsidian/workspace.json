@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Programming/Expressions.md",
+                "file": "JS/Classes/Class(JS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,6 @@
       {
         "id": "86c309990bf8dae6",
         "type": "tabs",
-        "dimension": 80.62015503875969,
         "children": [
           {
             "id": "db16c364b8553a1b",
@@ -91,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming/Expressions.md"
+                "file": "JS/Classes/Class(JS).md"
               }
             }
           },
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming/Expressions.md",
+                "file": "JS/Classes/Class(JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming/Expressions.md",
+                "file": "JS/Classes/Class(JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,22 +156,14 @@
               "type": "git-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ee8fcb75be13a59d",
-        "type": "tabs",
-        "dimension": 19.379844961240313,
-        "children": [
+          },
           {
             "id": "6a60721cbad70e63",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Data",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,11 +172,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 847.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,12 +194,18 @@
   },
   "active": "82893fb81be89796",
   "lastOpenFiles": [
+    "JS/Classes/Class(JS).md",
+    "JS/Objects/Prototype(JS).md",
+    "JS/Classes/Static Fields and Methods.md",
+    "JS/Class/Untitled",
+    "JS/Classes",
+    "JS/Temporal dead zone (TDZ).md",
+    "JS/1. Functions/Hoisting.md",
+    "General Programming/Expression.md",
     "attachments/Pasted image 20230827143748.png",
     "attachments/Pasted image 20230827143711.png",
-    "Class(JS).md",
     "JS/Objects/Object(JS).md",
     "JS/JS.md",
-    "JS/Objects/Prototype(JS).md",
     "JS/Objects/Inheritance(JS).md",
     "JS/Objects/Constructor.md",
     "JS/The new Operator.md",
@@ -227,12 +225,8 @@
     "JS/1. Functions/bind().md",
     "Back-end/Node.js/Advanced Authentication.md",
     "JS/Objects/Getters & Setters.md",
-    "JS/1. Functions/this.md",
+    "JS/Objects/this.md",
     "JS/1. Functions/First-class Functions.md",
-    "JS/1. Functions/Rest Parameter.md",
-    "Arrays.md",
-    "boolean(JS).md",
-    "General Programming/Terms/Binding.md",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",
@@ -240,8 +234,6 @@
     "Front-end/React",
     "Front-end",
     "JS/Objects",
-    "General Programming",
-    "JS/1. Functions",
     "Без назви.canvas"
   ]
 }

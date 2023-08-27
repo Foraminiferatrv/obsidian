@@ -2,6 +2,9 @@
 ---
 tag: JS
 ---
+
+>Hoisting is an ability to access a variable before it's declaration.
+
 Consider the example below:
 
 ``` js

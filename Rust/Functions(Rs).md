@@ -2,7 +2,7 @@
 tag: Rs
 ---
 
-Function bodies are made up of a series of [Statements](Statements.md) statements optionally ending in an [Expressions](Expressions.md) expression.
+Function bodies are made up of a series of [Statements](Statements.md) statements optionally ending in an [Expression](Expression.md) expression.
 
 - [Statements] are instructions that perform some action and do not return a value.
 - [Expressions] evaluate to a resultant value. Let’s look at some examples.
