@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Classes/Class(JS).md",
+                "file": "Arrow functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Classes/Class(JS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Classes/Class(JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Classes/Class(JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 847.5
+    "width": 636.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +188,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "82893fb81be89796",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
-    "JS/Classes/Class(JS).md",
+    "Arrow functions.md",
     "JS/Objects/Prototype(JS).md",
+    "General Programming/Terms/Currying.md",
+    "JS/Objects/Inheritance(JS).md",
+    "JS/Classes/Class(JS).md",
+    "JS/Classes/extends(JS).md",
     "JS/Classes/Static Fields and Methods.md",
     "JS/Class/Untitled",
     "JS/Classes",
@@ -206,7 +206,6 @@
     "attachments/Pasted image 20230827143711.png",
     "JS/Objects/Object(JS).md",
     "JS/JS.md",
-    "JS/Objects/Inheritance(JS).md",
     "JS/Objects/Constructor.md",
     "JS/The new Operator.md",
     "attachments/Pasted image 20230827133843.png",
@@ -220,13 +219,11 @@
     "JS/Objects/Built-in Objects.md",
     "General Programming/Terms/Literal.md",
     "General Programming/Terms/Scope.md",
-    "General Programming/Terms/Currying.md",
     "Back-end/Node.js/Validation.md",
     "JS/1. Functions/bind().md",
     "Back-end/Node.js/Advanced Authentication.md",
     "JS/Objects/Getters & Setters.md",
     "JS/Objects/this.md",
-    "JS/1. Functions/First-class Functions.md",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",
