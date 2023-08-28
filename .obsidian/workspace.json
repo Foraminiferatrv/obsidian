@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Classes/Private Properties(JS).md",
+                "file": "JS/Objects/Getters & Setters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Classes/Private Properties(JS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Classes/Private Properties(JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Classes/Private Properties(JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,10 +188,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "198613c62a698580",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
-    "JS/Classes/Public Properties(JS).md",
+    "JS/Objects/Getters & Setters.md",
+    "JS/1. Functions/Functions (JS).md",
     "JS/Classes/Private Properties(JS).md",
+    "JS/Classes/Public Properties(JS).md",
     "JS/Classes/Static Fields and Methods.md",
     "General Programming/Terms/Currying.md",
     "JS/Classes/super.md",
@@ -212,7 +210,6 @@
     "JS/Objects/Object(JS).md",
     "JS/Operators (JS).md",
     "JS/The new Operator.md",
-    "JS/1. Functions/Functions (JS).md",
     "JS/Objects/Prototype(JS).md",
     "JS/Objects/Inheritance(JS).md",
     "JS/Class/Untitled",
@@ -227,7 +224,6 @@
     "attachments",
     "attachments/Pasted image 20230827133134.png",
     "JS/Data Types (JS).md",
-    "Rust/Data Types(Rs).md",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",
