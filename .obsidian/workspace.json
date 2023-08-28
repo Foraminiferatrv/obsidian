@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,7 +188,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d73fd0378a225d65",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
     "JS/1. Functions/Arrow functions.md",
     "Prototype.md",
