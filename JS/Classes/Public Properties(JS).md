@@ -1,0 +1,1 @@
+>**Public fields** are writable, enumerable, and configurable properties. As such, unlike their [[Private Properties(JS)|private]] counterparts, they participate in [[Inheritance(JS)|prototype inheritance]].

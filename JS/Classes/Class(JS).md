@@ -40,4 +40,4 @@ const Rectangle = class {
 
 - *Kind*: [[Getters & Setters|Getter]], [[Getters & Setters|setter]], method, or field
 - *Location*: [[Static Fields and Methods|Static]] or instance
-- *Visibility*: [[Private and Public Properties(JS)|Public or private]] 
+- *Visibility*: [[Private Properties(JS)|Public or private]] 

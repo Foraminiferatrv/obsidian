@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c41fcd1ee06afbfa",
+        "id": "c59ea316dcaabd93",
         "type": "tabs",
         "children": [
           {
-            "id": "82893fb81be89796",
+            "id": "198613c62a698580",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JS/Classes/Private Properties(JS).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -84,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Classes/Private Properties(JS).md"
+              }
             }
           },
           {
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Classes/Private Properties(JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Classes/Private Properties(JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 855.5
+    "width": 787.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,18 +189,19 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": false,
-      "3d-graph:3D Graph": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1d57a631fc4323cd",
+  "active": "198613c62a698580",
   "lastOpenFiles": [
+    "JS/Classes/Public Properties(JS).md",
+    "JS/Classes/Private Properties(JS).md",
+    "JS/Classes/Static Fields and Methods.md",
     "General Programming/Terms/Currying.md",
     "JS/Classes/super.md",
     "JS/Objects/Constructor.md",
     "JS/Classes/Class(JS).md",
     "General Programming/Terms/Literal.md",
-    "JS/Classes/Static Fields and Methods.md",
     "JS/1. Functions/Arrow functions.md",
     "Prototype.md",
     "call.md",
@@ -218,8 +228,6 @@
     "attachments/Pasted image 20230827133134.png",
     "JS/Data Types (JS).md",
     "Rust/Data Types(Rs).md",
-    "JS/Objects/Built-in Objects.md",
-    "General Programming/Terms/Scope.md",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",
