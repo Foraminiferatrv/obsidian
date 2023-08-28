@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md",
+                "file": "super.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 686.5
+    "width": 569.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +190,11 @@
   },
   "active": "5769ce1d598947fe",
   "lastOpenFiles": [
+    "super.md",
+    "JS/Objects/Constructor.md",
+    "JS/Classes/Class(JS).md",
+    "General Programming/Terms/Literal.md",
+    "JS/Classes/Static Fields and Methods.md",
     "JS/1. Functions/Arrow functions.md",
     "Prototype.md",
     "call.md",
@@ -204,15 +209,12 @@
     "JS/Objects/Prototype(JS).md",
     "General Programming/Terms/Currying.md",
     "JS/Objects/Inheritance(JS).md",
-    "JS/Classes/Class(JS).md",
-    "JS/Classes/Static Fields and Methods.md",
     "JS/Class/Untitled",
     "JS/Classes",
     "JS/Temporal dead zone (TDZ).md",
     "JS/1. Functions/Hoisting.md",
     "attachments/Pasted image 20230827143748.png",
     "attachments/Pasted image 20230827143711.png",
-    "JS/Objects/Constructor.md",
     "attachments/Pasted image 20230827133843.png",
     "attachments/Pasted image 20230827133814.png",
     "attachments/Untitled.md",
@@ -221,9 +223,7 @@
     "JS/Data Types (JS).md",
     "Rust/Data Types(Rs).md",
     "JS/Objects/Built-in Objects.md",
-    "General Programming/Terms/Literal.md",
     "General Programming/Terms/Scope.md",
-    "Back-end/Node.js/Validation.md",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",

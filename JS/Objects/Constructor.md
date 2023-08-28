@@ -18,6 +18,9 @@ A constructor is just a function ==**called using the [[The new Operator|new]]�
 
 Constructors, by convention, start with a capital letter and are named for the type of object they create. 
 
+### `super`
+A constructor can use the [[super]] keyword to call the constructor of the super class.
+
 ---
 The first version of the `constructor` is just a function and it can be used to create [[Object(JS)|objects]] with the `new` operator:
 

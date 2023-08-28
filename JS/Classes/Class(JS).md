@@ -17,6 +17,10 @@ class Rectangle {
 	getHight(){
   	console.log(this.height)
   }
+
+	static setArea(){
+		this.area = this.height * this.width
+	}
 }
 
 const rect = new Rectangle(2, 25)
