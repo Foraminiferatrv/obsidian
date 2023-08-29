@@ -30,6 +30,20 @@ const theName = person.personsName //'John'
 
 ## Setter
 
-The setter is a method that allows you to set the value of a property in an object. It is a special type of method that is used to set the value of a property in an object. The setter method takes one argument, which is the value that you want to set the property to. The setter method is defined with the keyword "set".
+>The setter is a method that allows you to set the value of a property in an object.
 
-For example, let's say we have an object
+It is a special type of method that is used to set the value of a property in an [[Object(JS)|object]]. The setter method takes one argument, which is the value that you want to set the property to. The setter method is defined with the keyword "set".
+
+```javascript
+const user = {
+  name: '',
+  set name(value) {
+    this.name = value;
+  },
+};
+
+user.name = 'John';
+console.log(user.name); // John
+```
+
+The setter method is a great way to ensure that the value of a property is always set correctly. For example, if we want to make sure that the value of the "name" property is always a string, we can use a setter method to check the type of the value and throw an error if it is not a string.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Temporal dead zone (TDZ).md",
+                "file": "JS/Objects/Getters & Setters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Temporal dead zone (TDZ).md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Temporal dead zone (TDZ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Temporal dead zone (TDZ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 787.5
+    "width": 507.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +188,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "198613c62a698580",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
     "JS/Objects/Getters & Setters.md",
+    "General Programming/Closure.md",
+    "JS/Temporal dead zone (TDZ).md",
     "JS/1. Functions/Functions (JS).md",
     "JS/Classes/Private Properties(JS).md",
     "JS/Classes/Public Properties(JS).md",
@@ -207,7 +205,6 @@
     "JS/1. Functions/Arrow functions.md",
     "Prototype.md",
     "call.md",
-    "General Programming/Closure.md",
     "General Programming/Expression.md",
     "JS/JS.md",
     "JS/Classes/extends(JS).md",
@@ -218,7 +215,6 @@
     "JS/Objects/Inheritance(JS).md",
     "JS/Class/Untitled",
     "JS/Classes",
-    "JS/Temporal dead zone (TDZ).md",
     "JS/1. Functions/Hoisting.md",
     "attachments/Pasted image 20230827143748.png",
     "attachments/Pasted image 20230827143711.png",
