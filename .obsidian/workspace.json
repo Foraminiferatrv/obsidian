@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Objects/Getters & Setters.md",
+                "file": "JS/Data Types/undefined(JS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 683.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +190,13 @@
   },
   "active": "5769ce1d598947fe",
   "lastOpenFiles": [
+    "JS/Data Types/undefined(JS).md",
+    "attachments/Untitled.md",
+    "JS/Data Types/null(JS).md",
+    "JS/void Operator(JS).md",
+    "JS/Data Types",
+    "JS/Data Types (JS).md",
+    "Optional Chaining Operator.md",
     "JS/Objects/Getters & Setters.md",
     "General Programming/Closure.md",
     "JS/Temporal dead zone (TDZ).md",
@@ -210,27 +217,20 @@
     "JS/Classes/extends(JS).md",
     "JS/Objects/Object(JS).md",
     "JS/Operators (JS).md",
-    "JS/The new Operator.md",
-    "JS/Objects/Prototype(JS).md",
-    "JS/Objects/Inheritance(JS).md",
     "JS/Class/Untitled",
     "JS/Classes",
-    "JS/1. Functions/Hoisting.md",
     "attachments/Pasted image 20230827143748.png",
     "attachments/Pasted image 20230827143711.png",
     "attachments/Pasted image 20230827133843.png",
     "attachments/Pasted image 20230827133814.png",
-    "attachments/Untitled.md",
     "attachments",
     "attachments/Pasted image 20230827133134.png",
-    "JS/Data Types (JS).md",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",
     "JS/TypeScript",
     "Front-end/React",
     "Front-end",
-    "JS/Objects",
     "Без назви.canvas"
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiMenuFoldLine",
       "FasFlorinSign",
       "RiListCheck2",
       "RiComputerLine",
-      "RiBracketsFill",
-      "FasGears"
+      "RiBracketsFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "JS/TypeScript/TypeScript.md": "SiTypescript",
   "JS/Arrays": "RiBracketsFill",
   "General Programming/General Programming.md": "RiComputerLine",
-  "JS/Classes": "RiListCheck2"
+  "JS/Classes": "RiListCheck2",
+  "JS/Data Types": "RiMenuFoldLine"
 }
