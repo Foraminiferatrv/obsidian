@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Objects/Getters & Setters.md",
+                "file": "JS/Temporal dead zone (TDZ).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Temporal dead zone (TDZ).md"
+              }
             }
           },
           {
@@ -124,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Temporal dead zone (TDZ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Temporal dead zone (TDZ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +192,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "198613c62a698580",
   "lastOpenFiles": [
     "JS/Objects/Getters & Setters.md",
     "JS/1. Functions/Functions (JS).md",
