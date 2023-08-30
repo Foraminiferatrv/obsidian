@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Data Types/undefined(JS).md",
+                "file": "JS/Data Types (JS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Data Types (JS).md"
+              }
             }
           },
           {
@@ -124,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Data Types (JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Data Types (JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,14 +192,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "198613c62a698580",
   "lastOpenFiles": [
+    "JS/Data Types/boolean(JS).md",
+    "JS/Data Types (JS).md",
     "JS/Data Types/undefined(JS).md",
     "attachments/Untitled.md",
     "JS/Data Types/null(JS).md",
     "JS/void Operator(JS).md",
     "JS/Data Types",
-    "JS/Data Types (JS).md",
     "Optional Chaining Operator.md",
     "JS/Objects/Getters & Setters.md",
     "General Programming/Closure.md",
@@ -216,7 +221,6 @@
     "JS/JS.md",
     "JS/Classes/extends(JS).md",
     "JS/Objects/Object(JS).md",
-    "JS/Operators (JS).md",
     "JS/Class/Untitled",
     "JS/Classes",
     "attachments/Pasted image 20230827143748.png",

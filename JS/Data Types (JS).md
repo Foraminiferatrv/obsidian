@@ -2,6 +2,8 @@
 tag: JS
 ---
 
+
+
 Types in JavaScript are categorized by:
 - **Primitives ([[string (JS)|string]], [[number (JS)|number]], [[null(JS)|null]], [[boolean(JS)|boolean]], [[undefined(JS)|undefined]], [[symbol(JS)|symbol]])**: these are immutable data types. They are not objects, don't have methods and they are stored in memory by value. ^472e0c
 - **Non-Primitives ([[Functions (JS)|functions]], [[Array(JS)|arrays]] and [[Object(JS)|objects]])**: these are mutable data types. They are objects and they are stored in [[Memory(JS)|memory]] by reference. ^bc81c3
@@ -9,6 +11,13 @@ Types in JavaScript are categorized by:
 >`function` = Object
 >`array` = Object
 >`object` = Object
+
+## Primitive Types
+
+>In JavaScript, a primitive (primitive value, primitive data type) is data that is not an object and has no methods or properties. ^d98db1
+
+All primitives are _immutable_; that is, they cannot be altered. It is important not to confuse a primitive itself with a variable assigned a primitive value. The variable may be reassigned to a new value, but the existing value can not be changed in the ways that objects, arrays, and functions can be altered. The language does not offer utilities to mutate primitive values.
+
 
 All primitive types, except [[null(JS)|null]] and [[undefined(JS)|undefined]], have their corresponding object wrapper types, which provide useful methods for working with the primitive values.
 
