@@ -89,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Data Types (JS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Data Types (JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Data Types (JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,10 +188,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "198613c62a698580",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
-    "JS/Data Types/boolean(JS).md",
     "JS/Data Types (JS).md",
+    "JS/Data Types/boolean(JS).md",
     "JS/Data Types/undefined(JS).md",
     "attachments/Untitled.md",
     "JS/Data Types/null(JS).md",
