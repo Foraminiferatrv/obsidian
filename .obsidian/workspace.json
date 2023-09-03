@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5265c2ae32f41552",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Data Types (JS).md"
+              }
             }
           },
           {
@@ -124,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Data Types (JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Data Types (JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +203,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "5265c2ae32f41552",
   "lastOpenFiles": [
     "JS/Data Types (JS).md",
     "JS/Data Types/boolean(JS).md",
