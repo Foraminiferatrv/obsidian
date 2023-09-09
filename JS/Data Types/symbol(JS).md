@@ -6,10 +6,24 @@ tags:
 
 >Behind the scenes `symbol` is like a *"long, unique number"* that always stays unique
 
->`Symbol('indentifier')` - parameters of the symbol constructor don't affect the value of a symbol. They are like keys that help identify the 
+>`Symbol('indentifier')` - parameters of the symbol constructor don't affect the value of a symbol. They are like keys that help identify different symbols. 
 
 **`Symbol`** is a built-in [[Object(JS)|object]] whose [[Constructor|constructor]] returns a `symbol` [[Data Types (JS)#Primitive Types|primitive]] — also called a **Symbol value** or just a **Symbol** — that's guaranteed to be **unique**.
 
+---
+Basically `Symbol()` is only used as unique keys for objects.
+
+```js 
+let user = {
+	id: 9451,
+	name: 'Dominique',
+	city: 'Siena',
+	age: 59
+}
+
+const idSym = Symbol('id')
+user[idSym] = 215485633215498732
+```
 ___
 To create a new primitive Symbol, you write `Symbol()` with an optional string as its description:
 
