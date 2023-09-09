@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Data Types/string (JS).md",
+                "file": "JS/Data Types/symbol(JS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Data Types/string (JS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Data Types/string (JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Data Types/string (JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 632.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +190,11 @@
   },
   "active": "5769ce1d598947fe",
   "lastOpenFiles": [
+    "JS/Data Types/symbol(JS).md",
+    "JS/Data Types (JS).md",
     "JS/Data Types/string (JS).md",
     "JS/Data Types/number (JS).md",
     "JS/Data Types/null(JS).md",
-    "JS/Data Types (JS).md",
     "JS/Data Types/boolean(JS).md",
     "JS/Data Types/undefined(JS).md",
     "attachments/Untitled.md",
@@ -220,7 +217,6 @@
     "Prototype.md",
     "call.md",
     "General Programming/Expression.md",
-    "JS/JS.md",
     "JS/Class/Untitled",
     "JS/Classes",
     "attachments/Pasted image 20230827143748.png",
