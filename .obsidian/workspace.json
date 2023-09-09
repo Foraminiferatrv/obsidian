@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Data Types/symbol(JS).md",
+                "file": "JS/Arrays/Array(JS).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Data Types/symbol(JS).md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Data Types/symbol(JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Data Types/symbol(JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +188,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "198613c62a698580",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
-    "WeakSet.md",
+    "JS/Arrays/Array(JS).md",
+    "JS/Arrays/Array Methods/push().md",
+    "concat().md",
+    "JS/Arrays/Array Methods/Array Methods.md",
     "JS/Data Types/symbol(JS).md",
+    "WeakSet.md",
     "JS/Data Types (JS).md",
     "JS/Data Types/string (JS).md",
     "JS/Data Types/number (JS).md",
@@ -217,10 +217,6 @@
     "JS/Classes/super.md",
     "JS/Objects/Constructor.md",
     "JS/Classes/Class(JS).md",
-    "General Programming/Terms/Literal.md",
-    "JS/1. Functions/Arrow functions.md",
-    "Prototype.md",
-    "call.md",
     "JS/Class/Untitled",
     "JS/Classes",
     "attachments/Pasted image 20230827143748.png",
