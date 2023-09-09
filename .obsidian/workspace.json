@@ -89,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Data Types/symbol(JS).md"
+              }
             }
           },
           {
@@ -124,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Data Types/symbol(JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Data Types/symbol(JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +192,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "198613c62a698580",
   "lastOpenFiles": [
+    "WeakSet.md",
     "JS/Data Types/symbol(JS).md",
     "JS/Data Types (JS).md",
     "JS/Data Types/string (JS).md",
@@ -216,7 +221,6 @@
     "JS/1. Functions/Arrow functions.md",
     "Prototype.md",
     "call.md",
-    "General Programming/Expression.md",
     "JS/Class/Untitled",
     "JS/Classes",
     "attachments/Pasted image 20230827143748.png",
