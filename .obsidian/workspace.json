@@ -89,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Arrays/Array(JS).md"
+              }
             }
           },
           {
@@ -124,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Arrays/Array(JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Arrays/Array(JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
