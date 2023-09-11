@@ -2,6 +2,8 @@
 tags:
   - JS
 ---
+>>Mutates an array🔴
+
 >The `push()` method appends values to an array.
 
 ```js

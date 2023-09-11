@@ -34,5 +34,13 @@
     }
   ],
   "obsidian-editor-shortcuts:selectLine": [],
-  "obsidian-editor-shortcuts:insertLineBelow": []
+  "obsidian-editor-shortcuts:insertLineBelow": [],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
 }

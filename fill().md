@@ -2,7 +2,7 @@
 tags:
   - JS
 ---
->>**Mutates an array**
+>>**Mutates an array**🔴
 
 >The **`fill()`** method of [[Array(JS)|Array]] instances changes all elements within a range of indices in an array to a static value. It returns the modified array.
 

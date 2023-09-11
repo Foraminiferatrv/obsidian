@@ -2,7 +2,7 @@
 tags:
   - JS
 ---
->>**Mutates an array**
+>>**Mutates an array**🔴
 
 >The **`splice()`** method of [[Array(JS)|Array]] instances changes the contents of an array by removing or replacing existing elements and/or adding new elements [[In place algorithm|in place]].
 

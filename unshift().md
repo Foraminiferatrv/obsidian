@@ -2,7 +2,7 @@
 tags:
   - JS
 ---
->>Mutates an array
+>>Mutates an array🔴
 
 >The **`unshift()`** method of [[Array(JS)|Array]] instances **adds** the specified elements to the **beginning** of an array and returns the new length of the array.
 
