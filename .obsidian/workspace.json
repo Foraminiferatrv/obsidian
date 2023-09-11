@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reduce().md",
+                "file": "Promises.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 896.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,20 +190,24 @@
   },
   "active": "5769ce1d598947fe",
   "lastOpenFiles": [
-    "reduce().md",
-    "pop().md",
-    "fill().md",
-    "sort().md",
-    "reverse().md",
-    "toReversed().md",
-    "splice().md",
-    "shift().md",
+    "Promises.md",
+    "JS/Arrays/Array Methods/concat().md",
+    "JS/Arrays/Array Methods/find().md",
+    "JS/Data Types/undefined(JS).md",
+    "JS/Arrays/Array Methods/slice().md",
+    "JS/Arrays/Array Methods/reduce().md",
+    "JS/Arrays/Array Methods/pop().md",
+    "JS/Arrays/Array Methods/fill().md",
+    "JS/Arrays/Array Methods/sort().md",
+    "JS/Arrays/Array Methods/reverse().md",
+    "JS/Arrays/Array Methods/toReversed().md",
+    "JS/Arrays/Array Methods/splice().md",
+    "JS/Arrays/Array Methods/shift().md",
     "JS/Arrays/Array Methods/push().md",
-    "unshift().md",
+    "JS/Arrays/Array Methods/unshift().md",
     "In place algorithm.md",
-    "filter().md",
-    "concat().md",
-    "map().md",
+    "JS/Arrays/Array Methods/filter().md",
+    "JS/Arrays/Array Methods/map().md",
     "JS/Arrays/Array(JS).md",
     "JS/Arrays/Array Methods/Array Methods.md",
     "JS/Data Types/symbol(JS).md",
@@ -212,10 +216,6 @@
     "JS/Data Types/string (JS).md",
     "JS/Data Types/number (JS).md",
     "JS/Data Types/null(JS).md",
-    "JS/Data Types/boolean(JS).md",
-    "JS/Data Types/undefined(JS).md",
-    "attachments/Untitled.md",
-    "JS/void Operator(JS).md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
