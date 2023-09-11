@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Promises.md",
+                "file": "JS/Promises.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 210.5
   },
   "right": {
     "id": "67331d440f3f028f",
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 896.5
+    "width": 553.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +188,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "1d57a631fc4323cd",
   "lastOpenFiles": [
-    "Promises.md",
+    "JS/Promises.md",
+    "JS/Data Types (JS).md",
     "JS/Arrays/Array Methods/concat().md",
     "JS/Arrays/Array Methods/find().md",
     "JS/Data Types/undefined(JS).md",
@@ -212,7 +213,6 @@
     "JS/Arrays/Array Methods/Array Methods.md",
     "JS/Data Types/symbol(JS).md",
     "WeakSet.md",
-    "JS/Data Types (JS).md",
     "JS/Data Types/string (JS).md",
     "JS/Data Types/number (JS).md",
     "JS/Data Types/null(JS).md",
