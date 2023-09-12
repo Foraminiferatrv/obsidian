@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e5608dbccb59aaa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,6 +182,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4044ab156cfb3c44",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -192,7 +213,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "198613c62a698580",
+  "active": "8e5608dbccb59aaa",
   "lastOpenFiles": [
     "JS/Promises.md",
     "JS/Data Types (JS).md",
