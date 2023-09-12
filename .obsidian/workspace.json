@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e5608dbccb59aaa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +202,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8e5608dbccb59aaa",
+  "active": "198613c62a698580",
   "lastOpenFiles": [
     "JS/Promises.md",
     "JS/Data Types (JS).md",
