@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Promises.md",
+                "file": "Rust/Variables(Rs).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,27 +21,20 @@
             }
           },
           {
-            "id": "92ee78a980524ab9",
+            "id": "0da161ef2bfb5d26",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "5e79dcedd41f8ccd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
+                "file": "Stream API.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Promises.md"
+                "file": "Stream API.md"
               }
             }
           },
@@ -147,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Promises.md",
+                "file": "Stream API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Promises.md",
+                "file": "Stream API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 763.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,9 +216,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5e79dcedd41f8ccd",
+  "active": "0da161ef2bfb5d26",
   "lastOpenFiles": [
+    "Stream API.md",
+    "Rust/Variables(Rs).md",
+    "Rust/Data Types(Rs).md",
     "JS/Promises.md",
+    "Front-end/Front-end.md",
+    "Front-end/React/React.md",
     "JS/Data Types (JS).md",
     "JS/Arrays/Array Methods/concat().md",
     "JS/Arrays/Array Methods/find().md",
@@ -246,11 +244,6 @@
     "JS/Arrays/Array Methods/map().md",
     "JS/Arrays/Array(JS).md",
     "JS/Arrays/Array Methods/Array Methods.md",
-    "JS/Data Types/symbol(JS).md",
-    "WeakSet.md",
-    "JS/Data Types/string (JS).md",
-    "JS/Data Types/number (JS).md",
-    "JS/Data Types/null(JS).md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",

@@ -33,7 +33,6 @@
   "Front-end": "FasBrush",
   "Front-end/React": "SiReact",
   "Rust/Rust.md": "SiRust",
-  "Front-end/Front-end.md": "FasBrush",
   "Back-end/Back-end.md": "FasGears",
   "General Programming": "RiComputerLine",
   "JS/TypeScript": "SiTypescript",
