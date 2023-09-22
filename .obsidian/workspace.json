@@ -19,8 +19,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92ee78a980524ab9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
+            "id": "5e79dcedd41f8ccd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Promises.md"
+              }
             }
           },
           {
@@ -124,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +223,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "5e79dcedd41f8ccd",
   "lastOpenFiles": [
     "JS/Promises.md",
     "JS/Data Types (JS).md",
