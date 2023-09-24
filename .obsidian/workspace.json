@@ -74,6 +74,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5769ce1d598947fe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "db16c364b8553a1b",
             "type": "leaf",
             "state": {
@@ -90,16 +100,6 @@
             "state": {
               "type": "outline",
               "state": {}
-            }
-          },
-          {
-            "id": "5769ce1d598947fe",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
             }
           },
           {
@@ -178,8 +178,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +197,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1d57a631fc4323cd",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
     "JS/Stream API/Duplex Stream.md",
     "JS/Stream API/Writable Stream.md",
