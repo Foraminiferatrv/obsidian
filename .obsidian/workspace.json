@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Stream API/pipe(stream API).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c92a1f3c215162bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Stream API/Readable Stream.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2562e576ee51fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Stream API/Readable Stream.md",
+                "file": "JS/Stream API/Duplex Stream.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Stream API/Readable Stream.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Stream API/Readable Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Stream API/Readable Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,11 +198,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b2562e576ee51fb5",
+  "active": "1d57a631fc4323cd",
   "lastOpenFiles": [
-    "JS/Stream API/Stream API.md",
-    "JS/Stream API/Readable Stream.md",
+    "JS/Stream API/Duplex Stream.md",
+    "JS/Stream API/Writable Stream.md",
     "JS/Stream API/pipe(stream API).md",
+    "JS/Stream API/Readable Stream.md",
+    "JS/Stream API/Stream API.md",
     "JS/Stream API",
     "General Programming/pipe.md",
     "attachments/Pasted image 20230924114810.png",
@@ -257,7 +228,6 @@
     "JS/Arrays/Array Methods/splice().md",
     "JS/Arrays/Array Methods/shift().md",
     "JS/Arrays/Array Methods/push().md",
-    "JS/Arrays/Array Methods/unshift().md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
