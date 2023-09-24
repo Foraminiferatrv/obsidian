@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Variables(Rs).md",
+                "file": "JS/Stream API/pipe(stream API).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "0da161ef2bfb5d26",
+            "id": "c92a1f3c215162bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stream API.md",
+                "file": "JS/Stream API/Readable Stream.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2562e576ee51fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Stream API/Readable Stream.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stream API.md"
+                "file": "JS/Stream API/Readable Stream.md"
               }
             }
           },
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stream API.md",
+                "file": "JS/Stream API/Readable Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stream API.md",
+                "file": "JS/Stream API/Readable Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Syntaxis_differences",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 763.5
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,9 +229,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0da161ef2bfb5d26",
+  "active": "b2562e576ee51fb5",
   "lastOpenFiles": [
-    "Stream API.md",
+    "JS/Stream API/Stream API.md",
+    "JS/Stream API/Readable Stream.md",
+    "JS/Stream API/pipe(stream API).md",
+    "JS/Stream API",
+    "General Programming/pipe.md",
+    "attachments/Pasted image 20230924114810.png",
+    "General Programming/Data stream.md",
     "Rust/Variables(Rs).md",
     "Rust/Data Types(Rs).md",
     "JS/Promises.md",
@@ -239,11 +258,6 @@
     "JS/Arrays/Array Methods/shift().md",
     "JS/Arrays/Array Methods/push().md",
     "JS/Arrays/Array Methods/unshift().md",
-    "In place algorithm.md",
-    "JS/Arrays/Array Methods/filter().md",
-    "JS/Arrays/Array Methods/map().md",
-    "JS/Arrays/Array(JS).md",
-    "JS/Arrays/Array Methods/Array Methods.md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
@@ -258,7 +272,6 @@
     "JS/Arrays",
     "JS/TypeScript",
     "Front-end/React",
-    "Front-end",
     "Без назви.canvas"
   ]
 }
