@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transform Stream.md",
+                "file": "JS/1. Functions/Arrow functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transform Stream.md"
+                "file": "JS/1. Functions/Arrow functions.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transform Stream.md",
+                "file": "JS/1. Functions/Arrow functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transform Stream.md",
+                "file": "JS/1. Functions/Arrow functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 1045.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +203,8 @@
   },
   "active": "198613c62a698580",
   "lastOpenFiles": [
+    "super Operator.md",
+    "JS/Classes/super.md",
     "Transform Stream.md",
     "JS/Stream API/Duplex Stream.md",
     "JS/Stream API/Writable Stream.md",
@@ -229,8 +231,6 @@
     "JS/Arrays/Array Methods/sort().md",
     "JS/Arrays/Array Methods/reverse().md",
     "JS/Arrays/Array Methods/toReversed().md",
-    "JS/Arrays/Array Methods/splice().md",
-    "JS/Arrays/Array Methods/shift().md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
