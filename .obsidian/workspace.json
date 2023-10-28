@@ -24,9 +24,12 @@
             "id": "e94bedfaf2741bee",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Rust/Variables/const(Rs).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -74,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.5
   },
   "right": {
     "id": "67331d440f3f028f",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md"
+                "file": "Rust/Variables/const(Rs).md"
               }
             }
           },
@@ -137,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md",
+                "file": "Rust/Variables/const(Rs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md",
+                "file": "Rust/Variables/const(Rs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1045.5
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,9 +217,15 @@
   },
   "active": "e94bedfaf2741bee",
   "lastOpenFiles": [
-    "super Operator.md",
+    "Rust/Variables/Variables(Rs).md",
+    "Rust/Variables/const(Rs).md",
+    "Untitled.md",
+    "Rust/Variables",
+    "JS/Stream API/Transform Stream.md",
+    "JS/Classes/super Operator.md",
+    "Rust/Rust.md",
+    "Rust/Functions(Rs).md",
     "JS/Classes/super.md",
-    "Transform Stream.md",
     "JS/Stream API/Duplex Stream.md",
     "JS/Stream API/Writable Stream.md",
     "JS/Stream API/pipe(stream API).md",
@@ -226,7 +235,6 @@
     "General Programming/pipe.md",
     "attachments/Pasted image 20230924114810.png",
     "General Programming/Data stream.md",
-    "Rust/Variables(Rs).md",
     "Rust/Data Types(Rs).md",
     "JS/Promises.md",
     "Front-end/Front-end.md",
@@ -237,11 +245,6 @@
     "JS/Data Types/undefined(JS).md",
     "JS/Arrays/Array Methods/slice().md",
     "JS/Arrays/Array Methods/reduce().md",
-    "JS/Arrays/Array Methods/pop().md",
-    "JS/Arrays/Array Methods/fill().md",
-    "JS/Arrays/Array Methods/sort().md",
-    "JS/Arrays/Array Methods/reverse().md",
-    "JS/Arrays/Array Methods/toReversed().md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
@@ -255,7 +258,6 @@
     "JS/Arrays/Array Methods",
     "JS/Arrays",
     "JS/TypeScript",
-    "Front-end/React",
     "Без назви.canvas"
   ]
 }

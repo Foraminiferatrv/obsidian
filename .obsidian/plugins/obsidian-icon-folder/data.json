@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasSquareRootVariable",
       "FasArrowUp19",
       "RiMenuFoldLine",
       "FasFlorinSign",
-      "RiListCheck2",
-      "RiComputerLine"
+      "RiListCheck2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "General Programming/General Programming.md": "RiComputerLine",
   "JS/Classes": "RiListCheck2",
   "JS/Data Types": "RiMenuFoldLine",
-  "JS/Stream API": "FasArrowUp19"
+  "JS/Stream API": "FasArrowUp19",
+  "Rust/Variables": "FasSquareRootVariable"
 }
