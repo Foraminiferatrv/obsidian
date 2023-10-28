@@ -8,7 +8,7 @@ tags:
 const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
 ```
 
->
+>Rust’s naming convention for constants is to use all uppercase with underscores between words
 
 1. [[Mutability(rs)|mut]] can't be used with `const`
 2.  The [[Types(rs)|type]] of the value _must_ be annotated
