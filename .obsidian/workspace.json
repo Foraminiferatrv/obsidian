@@ -228,8 +228,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9aacb5eea7d5b2eb",
+  "active": "1d57a631fc4323cd",
   "lastOpenFiles": [
+    "Docker",
     "Lifetimes.md",
     "Rust/'static Lifetime.md",
     "Rust/Rust.md",
@@ -258,7 +259,6 @@
     "JS/Data Types (JS).md",
     "JS/Arrays/Array Methods/concat().md",
     "JS/Arrays/Array Methods/find().md",
-    "JS/Data Types/undefined(JS).md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
