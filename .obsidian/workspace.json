@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Variables/Variables(Rs).md",
+                "file": "Rust/Rust.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aacb5eea7d5b2eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/'static Lifetime.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Variables/Variables(Rs).md"
+                "file": "Rust/'static Lifetime.md"
               }
             }
           },
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Variables/Variables(Rs).md",
+                "file": "Rust/'static Lifetime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Variables/Variables(Rs).md",
+                "file": "Rust/'static Lifetime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,17 +228,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e94bedfaf2741bee",
+  "active": "9aacb5eea7d5b2eb",
   "lastOpenFiles": [
-    "Rust/Mutability(rs).md",
+    "Lifetimes.md",
+    "Rust/'static Lifetime.md",
+    "Rust/Rust.md",
     "Rust/Variables/Variables(Rs).md",
+    "Rust/Mutability(rs).md",
     "Rust/Variables/let(rs).md",
     "Rust/Variables/const(Rs).md",
-    "Untitled.md",
     "Rust/Variables",
     "JS/Stream API/Transform Stream.md",
     "JS/Classes/super Operator.md",
-    "Rust/Rust.md",
     "Rust/Functions(Rs).md",
     "JS/Classes/super.md",
     "JS/Stream API/Duplex Stream.md",
@@ -245,7 +259,6 @@
     "JS/Arrays/Array Methods/concat().md",
     "JS/Arrays/Array Methods/find().md",
     "JS/Data Types/undefined(JS).md",
-    "JS/Arrays/Array Methods/slice().md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
