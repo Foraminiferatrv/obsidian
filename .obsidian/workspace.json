@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/'static Lifetime.md"
+                "file": "JS/1. Functions/Arrow functions.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/'static Lifetime.md",
+                "file": "JS/1. Functions/Arrow functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/'static Lifetime.md",
+                "file": "JS/1. Functions/Arrow functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
