@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/'static Lifetime.md",
+                "file": "General Programming/Terms/Currying.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/1. Functions/Arrow functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 1150.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,11 +224,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1d57a631fc4323cd",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
+    "General Programming/Terms/Currying.md",
+    "Rust/'static Lifetime.md",
+    "JS/1. Functions/Arrow functions.md",
     "Docker",
     "Lifetimes.md",
-    "Rust/'static Lifetime.md",
     "Rust/Rust.md",
     "Rust/Variables/Variables(Rs).md",
     "Rust/Mutability(rs).md",
@@ -258,7 +256,6 @@
     "Front-end/React/React.md",
     "JS/Data Types (JS).md",
     "JS/Arrays/Array Methods/concat().md",
-    "JS/Arrays/Array Methods/find().md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
@@ -271,7 +268,6 @@
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
     "JS/Arrays",
-    "JS/TypeScript",
     "Без назви.canvas"
   ]
 }
