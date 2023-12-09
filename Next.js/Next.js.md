@@ -10,3 +10,9 @@ One big difference is that Next.js allows to run JavaScript code in [[Node.js]] 
 
 >In Next.js all component **by default**  are [[Server Side Rendering|server-side components]] 
 
+### Rendering 
+
+![[Pasted image 20231209173646.png]]
+Data can be rendered on client or server. 
+If it's rendered on the server, it can be render Statically or Dynamically
+
