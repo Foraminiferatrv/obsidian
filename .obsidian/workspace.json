@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "198613c62a698580",
+            "id": "ba55521d40448d08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e94bedfaf2741bee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Rust.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aacb5eea7d5b2eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Programming/Terms/Currying.md",
+                "file": "Next.js/Next.js.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md"
+                "file": "Next.js/Next.js.md"
               }
             }
           },
@@ -153,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md",
+                "file": "Next.js/Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/1. Functions/Arrow functions.md",
+                "file": "Next.js/Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1150.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,14 +201,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5769ce1d598947fe",
+  "active": "ba55521d40448d08",
   "lastOpenFiles": [
+    "Next.js/Client-side Rendering.md",
+    "Rust/Rust.md",
     "General Programming/Terms/Currying.md",
+    "Events.md",
+    "Next.js/Server Side Rendering.md",
+    "Next.js/Next.js.md",
+    "React.md",
+    "Next.js",
     "Rust/'static Lifetime.md",
     "JS/1. Functions/Arrow functions.md",
     "Docker",
     "Lifetimes.md",
-    "Rust/Rust.md",
     "Rust/Variables/Variables(Rs).md",
     "Rust/Mutability(rs).md",
     "Rust/Variables/let(rs).md",
@@ -255,11 +234,6 @@
     "attachments/Pasted image 20230924114810.png",
     "General Programming/Data stream.md",
     "Rust/Data Types(Rs).md",
-    "JS/Promises.md",
-    "Front-end/Front-end.md",
-    "Front-end/React/React.md",
-    "JS/Data Types (JS).md",
-    "JS/Arrays/Array Methods/concat().md",
     "JS/Data Types",
     "JS/Class/Untitled",
     "JS/Classes",
@@ -271,7 +245,6 @@
     "attachments/Pasted image 20230827133134.png",
     "General Programming/Terms",
     "JS/Arrays/Array Methods",
-    "JS/Arrays",
     "Без назви.canvas"
   ]
 }

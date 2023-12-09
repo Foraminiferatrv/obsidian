@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasN",
       "FabDocker",
       "FasSquareRootVariable",
       "FasArrowUp19",
-      "RiMenuFoldLine",
-      "FasFlorinSign"
+      "RiMenuFoldLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "JS/Data Types": "RiMenuFoldLine",
   "JS/Stream API": "FasArrowUp19",
   "Rust/Variables": "FasSquareRootVariable",
-  "Docker": "FabDocker"
+  "Docker": "FabDocker",
+  "Next.js": "FasN"
 }
