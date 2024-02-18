@@ -99,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Next.js/Next.js.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 543.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,15 +197,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ba55521d40448d08",
+  "active": "5769ce1d598947fe",
   "lastOpenFiles": [
+    "Next.js/Next.js.md",
     "attachments/Pasted image 20231209173646.png",
     "Next.js/Client-side Rendering.md",
     "Rust/Rust.md",
     "General Programming/Terms/Currying.md",
     "Events.md",
     "Next.js/Server Side Rendering.md",
-    "Next.js/Next.js.md",
     "React.md",
     "Next.js",
     "Rust/'static Lifetime.md",
