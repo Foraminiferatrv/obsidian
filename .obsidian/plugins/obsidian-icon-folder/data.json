@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasQuestion",
+      "FasNoteSticky",
       "FasN",
       "FabDocker",
-      "FasSquareRootVariable",
-      "FasArrowUp19",
-      "RiMenuFoldLine"
+      "FasSquareRootVariable"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,7 @@
   "JS/Stream API": "FasArrowUp19",
   "Rust/Variables": "FasSquareRootVariable",
   "Docker": "FabDocker",
-  "Next.js": "FasN"
+  "Next.js": "FasN",
+  "Interview": "FasNoteSticky",
+  "Interview/Що стається, коли ми підключаємось до сайту.md": "FasQuestion"
 }
