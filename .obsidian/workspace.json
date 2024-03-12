@@ -21,16 +21,6 @@
             }
           },
           {
-            "id": "6a7003611fccb32a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
             "id": "1b5e79faea9ddc20",
             "type": "leaf",
             "state": {
@@ -43,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +216,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6a7003611fccb32a",
+  "active": "5fc61cd1185985b9",
   "lastOpenFiles": [
     "Web/SSL.md",
+    "Interview/Що стається, коли ми підключаємось до сайту.md",
     "Web/SSL-TLS рукостискання.md",
     "Web/TLS.md",
     "Web/DNS сервер.md",
-    "Interview/Що стається, коли ми підключаємось до сайту.md",
     "SSL/TLS рукостискання.md",
     "SSL",
     "Untitled",
