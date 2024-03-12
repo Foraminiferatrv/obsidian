@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Що стається, коли ми підключаємось до сайту.md",
+                "file": "Web/SSL-TLS рукостискання.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Що стається, коли ми підключаємось до сайту.md"
+                "file": "Web/SSL-TLS рукостискання.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Що стається, коли ми підключаємось до сайту.md",
+                "file": "Web/SSL-TLS рукостискання.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Що стається, коли ми підключаємось до сайту.md",
+                "file": "Web/SSL-TLS рукостискання.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +218,8 @@
   },
   "active": "5fc61cd1185985b9",
   "lastOpenFiles": [
-    "Web/SSL.md",
     "Interview/Що стається, коли ми підключаємось до сайту.md",
+    "Web/SSL.md",
     "Web/SSL-TLS рукостискання.md",
     "Web/TLS.md",
     "Web/DNS сервер.md",
